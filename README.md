@@ -24,4 +24,3 @@ Output of the ollama model with zero-shot and few-shot prompting, contains the f
 - `zero-shot`: Genre prediction of the zero-shot model
 - `few-shot`: Genre prediction of the few-shot model (uses 2 example lyrics with genres)
 - `actual`: Actual genre of the song
-https://github.com/573phn/dh_ad_a3/blob/main/
