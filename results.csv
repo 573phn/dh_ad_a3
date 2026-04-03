@@ -1,1501 +1,1501 @@
 ,zero-shot,few-shot,actual
-0,Hip-Hop,Hip-Hop,Hip-Hop
-1,Rock,Rock,Country
-2,Pop,Pop,Rock
-3,Folk,Folk,Electronic
-4,Pop,Rock,Pop
+0,Hip Hop,Hip-Hop,Hip-Hop
+1,Country,Rock,Country
+2,Indie Pop,Pop,Rock
+3,Tango,Tango,Electronic
+4,Pop Rock,Pop,Pop
 5,Pop,Pop,Indie
-6,Folk,Rock,Rock
-7,Rock,Rock,Rock
+6,Psychedelic Rock,Rock,Rock
+7,Indie Pop,Rock,Rock
 8,Folk,Folk,Folk
 9,Rock,Rock,Rock
-10,Country,R&B,R&B
+10,Pop,Pop,R&B
 11,Pop,Pop,Country
-12,Folk,Pop,Rock
-13,Rock,Rock,Rock
-14,Other,Pop,Pop
-15,Metal,Metal,Metal
-16,Country,Country,Rock
+12,Alternative Rock,Folk,Rock
+13,Alternative Rock,Pop,Rock
+14,Jewish Folk Music,Folk,Pop
+15,Black Metal,Metal,Metal
+16,Pop,Country,Rock
 17,Pop,Pop,Electronic
-18,Indie,Pop,Pop
-19,Rock,Rock,Rock
-20,Hip-Hop,Hip-Hop,Hip-Hop
-21,Hip-Hop,Hip-Hop,Rock
-22,Electronic,Electronic,Rock
+18,J-Pop,Pop,Pop
+19,Alternative Country,Folk,Rock
+20,Hip Hop,Hip-Hop,Hip-Hop
+21,Hip Hop,Hip-Hop,Rock
+22,Synth-pop,Electronic,Rock
 23,Pop,Pop,Pop
-24,Pop,Pop,Indie
-25,Pop,Electronic,Rock
-26,Folk,Country,Rock
-27,Metal,Rock,Rock
-28,Rock,Pop,Rock
+24,Disco,Pop,Indie
+25,Psychedelic Rock,Rock,Rock
+26,Folk Rock,Country,Rock
+27,Industrial,Rock,Rock
+28,Pop Rock,Rock,Rock
 29,Country,Country,Pop
-30,Folk,Indie,Jazz
-31,Country,Pop,Pop
-32,Hip-Hop,Hip-Hop,Hip-Hop
-33,Rock,Rock,Rock
-34,Pop,Pop,Rock
+30,Gothic Rock,Folk,Jazz
+31,Pop,Pop,Pop
+32,Hip Hop,Hip-Hop,Hip-Hop
+33,Alternative Rock,Rock,Rock
+34,Soft Rock,Pop,Rock
 35,Pop,Pop,Pop
-36,Pop,Pop,Jazz
-37,Rock,Rock,Rock
-38,Pop,Pop,Rock
-39,Other,Hip-Hop,Hip-Hop
-40,Rock,Metal,Country
-41,Folk,Indie,Rock
-42,Pop,Pop,Rock
-43,Metal,Metal,Metal
+36,Soft Rock,Pop,Jazz
+37,Psychedelic Rock,Rock,Rock
+38,Pop,R&B,Rock
+39,Alternative Rock,Hip-Hop,Hip-Hop
+40,Rock and Roll,Rock,Country
+41,Rock,Rock,Rock
+42,Pop,R&B,Rock
+43,Gothic Rock,Metal,Metal
 44,Pop,Pop,Pop
-45,Pop,Pop,Pop
-46,Metal,Metal,Metal
+45,Gospel,Pop,Pop
+46,Horror Metal,Metal,Metal
 47,Pop,Pop,Pop
 48,Pop,Pop,Rock
 49,Pop,Pop,Pop
 50,R&B,R&B,Hip-Hop
-51,Metal,Metal,Metal
-52,Metal,Metal,Rock
-53,Rock,Rock,Rock
-54,Rock,Rock,Rock
-55,Pop,Pop,Pop
-56,Rock,Pop,Rock
-57,Hip-Hop,Hip-Hop,Hip-Hop
+51,Industrial Metal,Metal,Metal
+52,Industrial Metal,Metal,Rock
+53,Alternative Rock,Rock,Rock
+54,Rock and Roll,Rock,Rock
+55,Latin Pop,Pop,Pop
+56,Pop,Pop,Rock
+57,Trap,Hip-Hop,Hip-Hop
 58,Rock,Rock,Rock
-59,Country,Pop,Rock
+59,Pop,Pop,Rock
 60,Pop,Pop,R&B
-61,Rock,Rock,Metal
+61,Darkwave,Rock,Metal
 62,Pop,Pop,Rock
 63,Pop,Pop,Jazz
-64,Rock,Rock,Rock
-65,Pop,R&B,Folk
+64,Alternative Rock,Rock,Rock
+65,Alternative Rock,Pop,Folk
 66,Pop,Pop,Rock
-67,Rock,Rock,Rock
+67,Alternative Rock,Rock,Rock
 68,Country,Country,Rock
-69,Country,Country,Metal
-70,Rock,Punk Rock,Rock
-71,Pop,Pop,Rock
-72,Folk,Folk,Pop
-73,Rock,Rock,Rock
+69,Blues,Country,Metal
+70,Punk Rock,Punk Rock,Rock
+71,Soft Rock,Pop,Rock
+72,Latin Pop,Folk,Pop
+73,Metal,Rock,Rock
 74,Hip-Hop,Hip-Hop,Hip-Hop
-75,Country,Rock,Rock
-76,Rock,Hip-Hop,Rock
-77,Pop,Pop,Jazz
-78,Hip-Hop,Hip-Hop,Hip-Hop
-79,Other,Other,Folk
-80,Other,Hip-Hop,Hip-Hop
-81,Folk,Folk,Folk
-82,Rock,Rock,Rock
-83,Pop,Rock,Other
+75,Country,Country,Rock
+76,Industrial Metal,Hip-Hop,Rock
+77,Rock and Roll,Pop,Jazz
+78,Hip Hop,Hip-Hop,Hip-Hop
+79,Classical,Other,Folk
+80,Hip Hop,Hip-Hop,Hip-Hop
+81,Scottish Folk,Folk,Folk
+82,Alternative Rock,Rock,Rock
+83,Latin Pop,Pop,Other
 84,Rock,Rock,Metal
-85,Rock,Rock,Rock
-86,Rock,Rock,Rock
+85,Glam Metal,Rock,Rock
+86,Punk Rock,Hip-Hop,Rock
 87,Pop,Pop,Pop
 88,Pop,Pop,Pop
 89,Country,Pop,Rock
-90,Hip-Hop,Hip-Hop,Hip-Hop
-91,Metal,Metal,Rock
+90,Hip Hop,Hip-Hop,Hip-Hop
+91,Industrial Rock,Metal,Rock
 92,Pop,Pop,Indie
-93,Folk,Pop,Pop
-94,Hip-Hop,Hip-Hop,Hip-Hop
-95,Rock,Hip-Hop,Rock
+93,Dream Pop,Pop,Pop
+94,Hip Hop,Hip-Hop,Hip-Hop
+95,Alternative Metal,Rock,Rock
 96,Rock,Rock,Electronic
-97,Folk,Pop,Indie
+97,French Pop,Folk,Indie
 98,Pop,Pop,Rock
-99,Hip-Hop,Hip-Hop,Rock
-100,Other,Other,Indie
-101,Metal,Metal,Rock
-102,Rock,Pop,Pop
+99,Hip Hop,Hip-Hop,Rock
+100,Instrumental,Other,Indie
+101,Gothic Rock,Metal,Rock
+102,J-Pop,Pop,Pop
 103,Pop,Pop,Rock
-104,Folk,Folk,Other
+104,Gospel,Country,Other
 105,Country,Country,Hip-Hop
-106,Indie,Pop,Pop
-107,Folk,Pop,Rock
-108,Hip-Hop,Hip-Hop,Rock
-109,Metal,Metal,Rock
-110,Folk,Folk,Electronic
-111,Rock,Rock,Rock
-112,Folk,Rock,Pop
-113,Folk,Rock,Rock
+106,Indie Rock,Pop,Pop
+107,Psychedelic Rock,Indie,Rock
+108,Hip Hop,Hip-Hop,Rock
+109,Gothic Rock,Metal,Rock
+110,Country,Folk,Electronic
+111,Christian Rock,Rock,Rock
+112,Patriotic Folk,Rock,Pop
+113,Psychedelic Rock,Indie,Rock
 114,Metal,Metal,Metal
 115,Country,Country,Country
-116,Hip-Hop,Hip-Hop,Hip-Hop
-117,Pop,Pop,Metal
-118,Metal,Metal,Metal
+116,Gangsta Rap,Hip-Hop,Hip-Hop
+117,Gospel,Pop,Metal
+118,Norse Metal,Metal,Metal
 119,R&B,R&B,Pop
-120,Country,Latin Pop,Pop
-121,Folk,Folk,Folk
+120,Latin Pop,Pop,Pop
+121,Jazz,Folk,Folk
 122,Rock,Rock,Other
 123,Pop,Country,Rock
-124,Pop,Pop,Rock
-125,Rock,Rock,Metal
-126,Rock,Rock,Rock
+124,Rock,Pop,Rock
+125,Gothic Rock,Rock,Metal
+126,Gothic Rock,Rock,Rock
 127,Country,Country,R&B
-128,Folk,Pop,Rock
-129,Hip-Hop,Hip-Hop,Hip-Hop
-130,Hip-Hop,Hip-Hop,Hip-Hop
-131,Folk,Pop,Pop
-132,Rock,Hip-Hop,Rock
-133,Pop,R&B,Rock
-134,Pop,Pop,Pop
-135,Rock,Rock,Electronic
+128,Dutch Pop,Pop,Rock
+129,Hip Hop,Hip-Hop,Hip-Hop
+130,Gangsta Rap,Hip-Hop,Hip-Hop
+131,Country,Country,Pop
+132,Punk Rock,Rock,Rock
+133,Pop Rock,Pop,Rock
+134,Pop,R&B,Pop
+135,Blues,Rock,Electronic
 136,Rock,Rock,Rock
-137,Folk,Folk,Rock
-138,Rock,Rock,Rock
-139,Folk,Folk,Pop
-140,Folk,Folk,Other
-141,Rock,Rock,Rock
-142,Hip-Hop,Hip-Hop,Rock
-143,Pop,Rock,Rock
-144,Pop,Pop,Pop
-145,Metal,Rock,Metal
-146,Hip-Hop,Hip-Hop,Hip-Hop
+137,Gospel,Contemporary Christian,Rock
+138,Punk Rock,Rock,Rock
+139,Christmas Pop,Pop,Pop
+140,Dark Folk,Folk,Other
+141,Alternative Rock,Rock,Rock
+142,J-Pop,Pop,Rock
+143,Pop,Pop,Rock
+144,Pop Ballad,Pop,Pop
+145,Metal,Metal,Metal
+146,Hip Hop,Hip-Hop,Hip-Hop
 147,Rock,Rock,Electronic
 148,Pop,Pop,Pop
 149,Rock,Rock,Rock
-150,Rock,Rock,Rock
+150,Blues,Rock,Rock
 151,Blues,Blues,Jazz
-152,Hip-Hop,Hip-Hop,Hip-Hop
-153,Folk,Folk,Metal
-154,Metal,Hip-Hop,Rock
-155,Rock,Rock,Rock
+152,Hip Hop,Hip-Hop,Hip-Hop
+153,Folk Metal,Folk,Metal
+154,Industrial Metal,Metal,Rock
+155,Alternative Rock,Rock,Rock
 156,Hip-Hop,Hip-Hop,Rock
-157,Pop,Pop,Rock
-158,Country,Folk,Jazz
-159,Hip-Hop,Hip-Hop,Hip-Hop
-160,Hip-Hop,Hip-Hop,Hip-Hop
-161,Folk,Other,Rock
-162,Pop,Rock,Pop
-163,Folk,Folk,Rock
+157,Pop,R&B,Rock
+158,Country,Country,Jazz
+159,Hip Hop,Hip-Hop,Hip-Hop
+160,Hip Hop,Hip-Hop,Hip-Hop
+161,Darkwave,Darkwave,Rock
+162,Alternative Rock,Rock,Pop
+163,Indie Rock,Folk,Rock
 164,Country,Country,Country
-165,Metal,Metal,Rock
-166,Folk,Other,Other
-167,Metal,Metal,Metal
-168,Folk,Country,Country
-169,Pop,Pop,Pop
+165,Heavy Metal,Metal,Rock
+166,French Chanson,Folk,Other
+167,Gothic Rock,Metal,Metal
+168,Gospel,Country,Country
+169,Dark Pop,R&B,Pop
 170,Jazz,Jazz,Rock
-171,R&B,R&B,Pop
-172,Folk,Rock,Rock
-173,Rock,Rock,Rock
-174,Rock,Rock,Metal
-175,Hip-Hop,Hip-Hop,Hip-Hop
-176,Hip-Hop,Hip-Hop,Hip-Hop
+171,Blues,R&B,Pop
+172,Blues,Folk,Rock
+173,Pop Rock,Pop,Rock
+174,Darkwave,Rock,Metal
+175,Hip Hop,Hip-Hop,Hip-Hop
+176,Hip Hop,Hip-Hop,Hip-Hop
 177,Pop,Pop,Pop
-178,Other,Other,Electronic
-179,Country,Pop,Country
-180,Rock,Rock,Pop
-181,Country,Country,Country
-182,Pop,Pop,Rock
+178,Psychedelic Rock,Folk,Electronic
+179,Country,Country,Country
+180,J-Rock,Rock,Pop
+181,Country,Rock,Country
+182,Pop Rock,Pop,Rock
 183,Country,Country,Rock
-184,Rock,Rock,Rock
-185,Pop,Pop,Pop
+184,Alternative Rock,Rock,Rock
+185,K-Pop,Pop,Pop
 186,Pop,Pop,Pop
 187,Country,Country,Rock
-188,Hip-Hop,Hip-Hop,Hip-Hop
-189,Country,Pop,Country
+188,Rap Rock,Hip-Hop,Hip-Hop
+189,Country,Country,Country
 190,Metal,Metal,Rock
-191,Rock,Rock,Pop
-192,Rock,Hip-Hop,Rock
-193,Rock,Rock,Pop
-194,Folk,Folk,Pop
-195,Rock,Rock,Rock
+191,Blues,Rock,Pop
+192,Disco,Rock,Rock
+193,Alternative Rock,Rock,Pop
+194,Indie Folk,Indie,Pop
+195,Southern Rock,Rock,Rock
 196,Pop,Pop,Rock
-197,Hip-Hop,Hip-Hop,Hip-Hop
-198,Rock,Rock,Rock
-199,Country,Pop,Rock
-200,Rock,Rock,Rock
-201,Electronic,Electronic,Pop
-202,Pop,Rock,Rock
-203,Rock,Rock,Pop
-204,Hip-Hop,Hip-Hop,Hip-Hop
-205,Rock,Rock,Pop
-206,Rock,Rock,Metal
-207,Other,Metal,Metal
-208,Country,Country,Rock
-209,Rock,Other,Rock
-210,Pop,Pop,Pop
-211,Rock,Rock,Rock
-212,Rock,Rock,Rock
-213,Pop,Pop,Jazz
-214,Pop,Pop,Pop
-215,Country,Pop,Rock
+197,Hip Hop,Hip-Hop,Hip-Hop
+198,Industrial Rock,Hip-Hop,Rock
+199,Country,Country,Rock
+200,Progressive Rock,Rock,Rock
+201,Disco,Disco,Pop
+202,Indie Rock,Rock,Rock
+203,Pop Rock,Rock,Pop
+204,Hip Hop,Hip-Hop,Hip-Hop
+205,Alternative Rock,Rock,Pop
+206,Blues,Rock,Metal
+207,Darkwave,Metal,Metal
+208,Country Pop,Country,Rock
+209,Darkwave,Rock,Rock
+210,Soul Music,Pop,Pop
+211,Alternative Rock,Rock,Rock
+212,Alternative Rock,Rock,Rock
+213,Dream Pop,Pop,Jazz
+214,Pop Rock,Pop,Pop
+215,Country,Country,Rock
 216,Folk,Folk,Pop
-217,Rock,Rock,Metal
-218,Pop,Pop,Rock
-219,Pop,Hip-Hop,Pop
-220,Rock,Hip-Hop,Rock
-221,Country,Country,Pop
-222,Hip-Hop,Hip-Hop,Hip-Hop
-223,Other,Other,Metal
-224,Rock,Rock,Rock
+217,New Age,Rock,Metal
+218,Synth-pop,Pop,Rock
+219,Pop,Pop,Pop
+220,Punk Rock,Rock,Rock
+221,Blues,Folk,Pop
+222,Hip Hop,Hip-Hop,Hip-Hop
+223,Instrumental,Other,Metal
+224,Punk Rock,Rock,Rock
 225,Pop,Pop,Pop
-226,Hip-Hop,Hip-Hop,Pop
-227,Folk,Pop,Rock
-228,Hip-Hop,Hip-Hop,Hip-Hop
-229,Hip-Hop,Hip-Hop,Hip-Hop
-230,Country,Country,Country
-231,Country,Country,Rock
-232,Pop,Hip-Hop,Pop
-233,Folk,Folk,Rock
-234,Rock,Rock,Rock
-235,R&B,Pop,Pop
-236,Other,Other,Rock
-237,Pop,R&B,Rock
-238,Pop,Pop,Jazz
+226,Hip Hop,Hip-Hop,Pop
+227,French Pop,Folk,Rock
+228,Hip Hop,Hip-Hop,Hip-Hop
+229,Gangsta Rap,Hip-Hop,Hip-Hop
+230,Ballad,Country,Country
+231,Country,Rock,Rock
+232,Pop,Pop,Pop
+233,Blues,Folk,Rock
+234,Pop Rock,Rock,Rock
+235,Pop,Pop,Pop
+236,Instrumental,Other,Rock
+237,Smooth Jazz,Pop,Rock
+238,Soul,Pop,Jazz
 239,Pop,Pop,Rock
-240,Hip-Hop,Hip-Hop,Hip-Hop
-241,Rock,Hip-Hop,Rock
-242,Hip-Hop,Hip-Hop,Rock
-243,Hip-Hop,Hip-Hop,Pop
-244,Country,Country,Rock
-245,Rock,Hip-Hop,Electronic
-246,Hip-Hop,Hip-Hop,Hip-Hop
-247,Country,Country,Pop
+240,Gangsta Rap,Hip-Hop,Hip-Hop
+241,Alternative Rock,Rock,Rock
+242,Hip Hop,Hip-Hop,Rock
+243,Hip Hop,Hip-Hop,Pop
+244,Country,Rock,Rock
+245,Industrial Rock,Hip-Hop,Electronic
+246,Hip Hop,Hip-Hop,Hip-Hop
+247,Christmas Pop,Country,Pop
 248,Pop,Pop,Rock
-249,Rock,Hip-Hop,Rock
+249,Country,Rock,Rock
 250,Pop,Pop,Hip-Hop
-251,Rock,Rock,Pop
+251,Post-punk,Rock,Pop
 252,Pop,Pop,Country
-253,Country,Pop,Rock
+253,Soft Rock,Country,Rock
 254,Pop,Pop,Rock
 255,Country,Country,Country
 256,Pop,Pop,Pop
-257,Rock,Folk,Rock
-258,Rock,Metal,Metal
+257,Indie Rock,Indie,Rock
+258,Metal,Rock,Metal
 259,Metal,Metal,Metal
-260,Folk,Pop,Rock
+260,Pop,Folk,Rock
 261,Pop,Pop,Rock
-262,Rock,Hip-Hop,R&B
-263,Rock,Other,Rock
-264,Country,Country,Rock
-265,Other,Other,Metal
-266,Metal,Metal,Rock
+262,Punk Rock,Hip-Hop,R&B
+263,Alternative Rock,Rock,Rock
+264,Blues,R&B,Rock
+265,Instrumental,Other,Metal
+266,Industrial Metal,Metal,Rock
 267,Pop,Pop,Pop
-268,Rock,Rock,Pop
+268,Darkwave,Rock,Pop
 269,Rock,Rock,Folk
-270,Rock,Rock,Rock
-271,Rock,Rock,Rock
+270,Blues,Rock,Rock
+271,Alternative Rock,Rock,Rock
 272,Pop,Pop,Jazz
-273,Pop,Pop,Pop
+273,Soft Rock,Pop,Pop
 274,Folk,Folk,Pop
-275,Hip-Hop,Hip-Hop,Rock
-276,Rock,Rock,Electronic
-277,Rock,Rock,Pop
-278,Pop,Pop,Rock
-279,Folk,Rock,Rock
-280,Rock,Hip-Hop,Rock
-281,Rock,Pop,Rock
-282,Jazz,Pop,Pop
+275,Hip Hop,Hip-Hop,Rock
+276,New Wave,Rock,Electronic
+277,Motivational Rock,Rock,Pop
+278,Alternative Rock,Pop,Rock
+279,Indie Rock,Rock,Rock
+280,Pop Rock,Pop,Rock
+281,Pop Rock,Pop,Rock
+282,Jazz,R&B,Pop
 283,Country,Country,Rock
-284,Rock,Other,Pop
-285,Folk,Jazz,Rock
-286,Rock,Country,Rock
-287,Folk,Folk,Country
-288,Metal,Metal,Metal
-289,Rock,Rock,Country
+284,Gospel,Gospel,Pop
+285,Christmas Carol,Classical,Rock
+286,Blues,Rock,Rock
+287,Gospel,Folk,Country
+288,Industrial Metal,Metal,Metal
+289,Country,Rock,Country
 290,Country,Country,Country
-291,Other,Other,Metal
-292,Rock,Rock,Rock
-293,Indie,Rock,Country
-294,Rock,Rock,Rock
-295,Pop,Pop,Other
-296,Hip-Hop,Hip-Hop,Rock
+291,Alternative Rock,Rock,Metal
+292,Rock and Roll,Rock,Rock
+293,Indie Rock,Indie,Country
+294,Folk Rock,Rock,Rock
+295,Romantic Ballad,Pop,Other
+296,Pop,Hip-Hop,Rock
 297,Pop,Pop,Rock
-298,Rock,Hip-Hop,Hip-Hop
+298,Blues,Rock,Hip-Hop
 299,Country,Country,Country
-300,Pop,Pop,Rock
-301,Metal,Rock,Rock
-302,Folk,Folk,Folk
-303,Rock,Rock,Pop
-304,Metal,Metal,Metal
-305,Other,Metal,Metal
-306,Rock,Rock,Metal
-307,Country,Country,Rock
-308,Rock,Pop,Jazz
+300,Pop Rock,Pop,Rock
+301,Industrial Rock,Rock,Rock
+302,Celtic Folk,Folk,Folk
+303,Alternative Rock,Rock,Pop
+304,Industrial Metal,Metal,Metal
+305,Black Metal,Metal,Metal
+306,Alternative Rock,Rock,Metal
+307,Blues,Country,Rock
+308,Rock and Roll,Pop,Jazz
 309,Folk,Folk,Rock
-310,Indie,Pop,Pop
-311,Rock,Rock,Country
-312,Other,Other,Electronic
-313,Folk,Other,Rock
-314,Metal,Rock,Metal
-315,Indie,Rock,Rock
-316,Electronic,Electronic,Rock
-317,Folk,Pop,Rock
-318,Pop,Pop,Rock
-319,Pop,R&B,Pop
-320,Rock,Hip-Hop,Rock
-321,Hip-Hop,Hip-Hop,Pop
-322,Rock,Rock,Metal
-323,Rock,Electronic,Metal
-324,Hip-Hop,Hip-Hop,Hip-Hop
+310,Indie Pop,Pop,Pop
+311,Rock and Roll,Rock,Country
+312,Experimental Electronic,Indie,Electronic
+313,Dark Ambient,Other,Rock
+314,Metal,Metal,Metal
+315,Dream Pop,Indie,Rock
+316,Synth-pop,Electronic,Rock
+317,Sadcore,Pop,Rock
+318,Synth-pop,Pop,Rock
+319,R&B,R&B,Pop
+320,Alternative Rock,Rock,Rock
+321,Hip Hop,Hip-Hop,Pop
+322,Alternative Rock,Rock,Metal
+323,Psychedelic Rock,Darkwave,Metal
+324,Grime,Hip-Hop,Hip-Hop
 325,Pop,Pop,Pop
-326,Hip-Hop,Hip-Hop,Hip-Hop
-327,Indie,Pop,Rock
-328,Hip-Hop,Hip-Hop,Hip-Hop
-329,Rock,Rock,Rock
-330,Rock,Rock,Metal
-331,Rock,Metal,Rock
-332,Rock,Hip-Hop,Hip-Hop
-333,Rock,Rock,Country
-334,Pop,R&B,Country
+326,Hip Hop,Hip-Hop,Hip-Hop
+327,Alternative Rock,Indie,Rock
+328,Hip Hop,Hip-Hop,Hip-Hop
+329,Gothic Rock,Rock,Rock
+330,Protest Song,Rock,Metal
+331,Industrial Metal,Rock,Rock
+332,Alternative R&B,Hip-Hop,Hip-Hop
+333,Southern Rock,Rock,Country
+334,Pop,Pop,Country
 335,Pop,Pop,Rock
-336,Other,Other,Rock
-337,Rock,Metal,Other
-338,Pop,Pop,Rock
-339,Metal,Metal,Rock
+336,Progressive Rock,Other,Rock
+337,Heavy Metal,Metal,Other
+338,Romantic Pop,Pop,Rock
+339,Darkwave,Metal,Rock
 340,Pop,Pop,Pop
 341,Pop,Hip-Hop,R&B
-342,Other,Metal,Metal
+342,Industrial,Metal,Metal
 343,Hip-Hop,Hip-Hop,Hip-Hop
-344,Folk,Folk,Rock
-345,Hip-Hop,Hip-Hop,Hip-Hop
+344,Country,Folk,Rock
+345,Hip Hop,Hip-Hop,Hip-Hop
 346,Pop,Pop,Pop
-347,Hip-Hop,Hip-Hop,Hip-Hop
-348,Rock,Rock,Metal
-349,Folk,Rock,Rock
-350,Country,Rock,Country
+347,Hip Hop,Hip-Hop,Hip-Hop
+348,Pop Rock,Rock,Metal
+349,Folk Rock,Rock,Rock
+350,Blues,Country,Country
 351,Country,Folk,Country
-352,Indie,Rock,Rock
+352,Indie Rock,Indie,Rock
 353,Country,Country,Country
 354,Pop,Pop,Pop
-355,Metal,Metal,Rock
-356,Country,Pop,Country
-357,Hip-Hop,Hip-Hop,Hip-Hop
-358,Other,Other,Metal
+355,Industrial Metal,Rock,Rock
+356,Soul,Pop,Country
+357,Hip Hop,Hip-Hop,Hip-Hop
+358,Ambient Electronic,Other,Metal
 359,Country,Country,Country
-360,Country,Pop,R&B
-361,Rock,Rock,Rock
-362,Folk,Folk,Rock
-363,Rock,Hip-Hop,Other
+360,Jazz,Country,R&B
+361,Industrial Rock,Rock,Rock
+362,Romantic Ballad,Folk,Rock
+363,Pop Rock,Rock,Other
 364,Country,Country,Rock
 365,Pop,Pop,Rock
-366,Rock,Rock,Rock
+366,Novelty Pop,Rock,Rock
 367,Pop,Pop,Rock
 368,Rock,Pop,Pop
-369,Rock,Hip-Hop,Pop
-370,R&B,R&B,R&B
-371,Country,Rock,Rock
-372,Rock,Rock,Country
-373,Hip-Hop,Hip-Hop,Hip-Hop
-374,Pop,R&B,Rock
+369,J-Pop,Hip-Hop,Pop
+370,Disco,Rock,R&B
+371,Country Rock,Rock,Rock
+372,Alternative Rock,Rock,Country
+373,Hip Hop,Hip-Hop,Hip-Hop
+374,Power ballad,Pop,Rock
 375,Pop,Pop,Pop
 376,Country,Rock,Rock
-377,Rock,Rock,Rock
-378,Industrial,Metal,Metal
-379,Pop,Pop,Rock
-380,Rock,Rock,Other
-381,Pop,Pop,Pop
+377,Metal,Metal,Rock
+378,Industrial,Industrial,Metal
+379,Blues,R&B,Rock
+380,Industrial Rock,Rock,Other
+381,Pop Rock,Pop,Pop
 382,Jazz,Jazz,Folk
 383,Pop,Pop,Rock
-384,Hip-Hop,Hip-Hop,Hip-Hop
+384,Hip Hop,Hip-Hop,Hip-Hop
 385,Rock,Rock,Rock
-386,Rock,Rock,R&B
-387,Pop,R&B,Pop
-388,Other,Other,Rock
-389,Rock,Hip-Hop,Rock
-390,Country,Hip-Hop,Rock
+386,Country,Rock,R&B
+387,Power ballad,Rock,Pop
+388,Instrumental,Other,Rock
+389,Alternative Rock,Rock,Rock
+390,Country,R&B,Rock
 391,Country,Country,Country
-392,Rock,Hip-Hop,Rock
-393,Pop,Pop,Rock
-394,Metal,Metal,Metal
-395,Hip-Hop,Hip-Hop,Pop
+392,Indie Rock,Rock,Rock
+393,Gospel,Pop,Rock
+394,Darkwave,Metal,Metal
+395,Hip Hop,Hip-Hop,Pop
 396,Pop,Pop,Rock
-397,Folk,Pop,Pop
-398,Other,Other,Rock
+397,Indie Folk,Sad Country,Pop
+398,German Pop,Other,Rock
 399,Country,Country,Rock
 400,Pop,Pop,Rock
 401,Hip-Hop,Hip-Hop,Rock
-402,Indie,Pop,Rock
-403,Other,Other,Metal
-404,Rock,Hip-Hop,Metal
-405,Folk,Folk,Other
-406,Pop,Pop,Rock
-407,Hip-Hop,Hip-Hop,Hip-Hop
-408,Other,Other,Metal
-409,Rock,Rock,Rock
-410,Country,R&B,Rock
+402,Indie Pop,Rock,Rock
+403,Gothic Rock,Other,Metal
+404,Protest Song,Rock,Metal
+405,Dream Pop,Indie,Other
+406,Pop Rock,Pop,Rock
+407,Hip Hop,Hip-Hop,Hip-Hop
+408,Metal,Rock,Metal
+409,Alternative Rock,Rock,Rock
+410,Blues,Blues,Rock
 411,Metal,Metal,Electronic
-412,Country,Country,Other
-413,Pop,Pop,Electronic
-414,Rock,Rock,Rock
-415,Metal,Hip-Hop,Rock
+412,Blues,Country,Other
+413,Electronic Dance Music,Pop,Electronic
+414,Protest Song,Rock,Rock
+415,Industrial,Rock,Rock
 416,Metal,Metal,Metal
-417,Pop,Pop,Hip-Hop
-418,Hip-Hop,Hip-Hop,Hip-Hop
+417,Hip Hop,Hip-Hop,Hip-Hop
+418,Trap,Hip-Hop,Hip-Hop
 419,Pop,Pop,Rock
-420,Folk,Pop,Electronic
-421,Rock,Rock,Rock
-422,Rock,Rock,Rock
-423,Rock,Hip-Hop,Rock
-424,Other,Other,Electronic
-425,Hip-Hop,Hip-Hop,Hip-Hop
-426,Pop,Pop,Other
-427,Folk,Folk,Metal
+420,Romantic ballad,Rock,Electronic
+421,Blues,Rock,Rock
+422,Outlaw Country,Rock,Rock
+423,Rock,Rock,Rock
+424,Punk Rock,Rock,Electronic
+425,Hip Hop,Hip-Hop,Hip-Hop
+426,Latin Pop,Pop,Other
+427,Folk ballad,Folk,Metal
 428,Pop,Pop,Rock
-429,Rock,Rock,Metal
-430,Other,Metal,Metal
+429,Alternative Rock,Rock,Metal
+430,Dark Ambient,Metal,Metal
 431,Reggae,Rock,Rock
-432,Hip-Hop,Hip-Hop,Hip-Hop
-433,Hip-Hop,Hip-Hop,Hip-Hop
-434,Rock,Rock,Rock
-435,Folk,Folk,Rock
-436,Indie,Pop,Metal
-437,Pop,Electronic,Rock
-438,Rock,Hip-Hop,Pop
-439,Folk,Pop,Other
+432,Hip Hop,Hip-Hop,Hip-Hop
+433,Hip Hop,Hip-Hop,Hip-Hop
+434,Industrial Metal,Rock,Rock
+435,Country,Folk,Rock
+436,Darkwave,Indie,Metal
+437,Psychedelic Rock,Rock,Rock
+438,Hip Hop,Hip-Hop,Pop
+439,Contemporary Christian,Pop,Other
 440,Pop,Pop,Indie
-441,Country,R&B,Rock
-442,Rock,Rock,Rock
-443,Pop,Pop,Pop
-444,Hip-Hop,Hip-Hop,Hip-Hop
+441,Country,Country,Rock
+442,Gothic Rock,Rock,Rock
+443,Gospel,Pop,Pop
+444,Hip Hop,Hip-Hop,Hip-Hop
 445,Metal,Metal,Metal
-446,Hip-Hop,Hip-Hop,Hip-Hop
-447,Hip-Hop,Hip-Hop,Hip-Hop
-448,Pop,Electronic,Electronic
-449,Other,Country,Rock
+446,Reggaeton,Hip-Hop,Hip-Hop
+447,Hip Hop,Hip-Hop,Hip-Hop
+448,Alternative Rock,Pop,Electronic
+449,Psychedelic Rock,Rock,Rock
 450,Metal,Metal,Metal
 451,Hip-Hop,Hip-Hop,Hip-Hop
-452,Hip-Hop,Hip-Hop,Hip-Hop
-453,Hip-Hop,Hip-Hop,Hip-Hop
+452,Gangsta Rap,Hip-Hop,Hip-Hop
+453,Hip Hop,Hip-Hop,Hip-Hop
 454,Country,Rock,Country
-455,Folk,Folk,Rock
-456,Pop,Pop,Rock
-457,Rock,Hip-Hop,Pop
+455,Contemporary Christian,Contemporary Christian,Rock
+456,Christmas Pop,Pop,Rock
+457,Dark Pop,Rock,Pop
 458,Metal,Metal,Metal
-459,Metal,Metal,Rock
-460,Rock,Rock,Rock
-461,Rock,Rock,Rock
-462,Metal,Metal,Rock
-463,Folk,Pop,Pop
-464,Rock,Rock,Rock
-465,Hip-Hop,Hip-Hop,Pop
-466,Rock,Hip-Hop,Rock
+459,Punk Rock,Metal,Rock
+460,Alternative Rock,Rock,Rock
+461,Rock and Roll,Rock,Rock
+462,Industrial Rock,Metal,Rock
+463,Soft Rock,Rock,Pop
+464,Punk Rock,Rock,Rock
+465,Hip Hop,Hip-Hop,Pop
+466,Hip-Hop,Hip-Hop,Rock
 467,Pop,Pop,Country
-468,Folk,Folk,Rock
+468,Gospel,Folk,Rock
 469,Folk,Folk,Pop
-470,Other,Indie,Rock
-471,Metal,Metal,Rock
-472,Metal,Metal,Metal
-473,R&B,Pop,Rock
-474,Metal,Metal,Rock
-475,Folk,Pop,Hip-Hop
-476,Pop,Pop,Pop
-477,Pop,R&B,Pop
-478,Folk,Rock,Rock
-479,Hip-Hop,Hip-Hop,Hip-Hop
+470,Gothic Rock,Rock,Rock
+471,Black Metal,Metal,Rock
+472,Folk Metal,Metal,Metal
+473,Slow Dance,R&B,Rock
+474,Industrial Rock,Metal,Rock
+475,Folk,Folk,Hip-Hop
+476,Synth-pop,Pop,Pop
+477,Pop,Pop,Pop
+478,Disco,Pop,Rock
+479,Hip Hop,Hip-Hop,Hip-Hop
 480,Pop,Pop,Rock
-481,Rock,Pop,Rock
-482,Other,Other,R&B
+481,Blues,Rock,Rock
+482,Darkwave,Rock,R&B
 483,Pop,Pop,Rock
-484,Metal,Metal,Rock
+484,Industrial Metal,Metal,Rock
 485,Country,Country,Country
-486,Pop,Rock,Rock
-487,Rock,Rock,Metal
-488,Pop,Pop,Rock
-489,Rock,R&B,Rock
-490,Pop,Rock,Rock
-491,Comedy Rock,Comedy Rock,Country
-492,Hip-Hop,Hip-Hop,Metal
-493,Folk,Folk,Jazz
+486,Pop,Pop,Rock
+487,Gothic Rock,Metal,Metal
+488,Indie Pop,Pop,Rock
+489,Gospel,Rock,Rock
+490,Pop Rock,Pop,Rock
+491,Comedy folk,Comedy Rock,Country
+492,Political Rock,Hip-Hop,Metal
+493,Country,Country,Jazz
 494,Pop,Pop,Pop
-495,Country,R&B,Metal
-496,Rock,Rock,R&B
-497,Country,R&B,R&B
-498,Pop,Hip-Hop,Pop
-499,Electronic,Electronic,Hip-Hop
-500,Rock,Hip-Hop,Pop
-501,Folk,Folk,Jazz
+495,Country,Country,Metal
+496,Rock and Roll,Rock,R&B
+497,Soul,Pop,R&B
+498,Hip Hop,Pop,Pop
+499,Kuduro,Electronic,Hip-Hop
+500,Pop Rock,Pop,Pop
+501,French Chanson,Folk,Jazz
 502,Pop,Pop,Rock
-503,Rock,Hip-Hop,Rock
-504,Folk,Rock,Rock
-505,Country,Rock,Rock
-506,Hip-Hop,Hip-Hop,Hip-Hop
+503,Grunge,Rock,Rock
+504,Punk Rock,Rock,Rock
+505,Blues,Country,Rock
+506,Hip Hop,Hip-Hop,Hip-Hop
 507,Hip-Hop,Hip-Hop,Hip-Hop
-508,Country,R&B,Country
-509,Rock,Rock,Rock
-510,Metal,Hip-Hop,Metal
-511,Rock,Rock,Rock
+508,Country,Country,Country
+509,Alternative Rock,Rock,Rock
+510,Industrial Metal,Metal,Metal
+511,Pop,Rock,Rock
 512,Country,Country,Country
-513,Hip-Hop,Hip-Hop,Hip-Hop
-514,Hip-Hop,Hip-Hop,Hip-Hop
-515,Rock,Rock,Pop
+513,Hip Hop,Hip-Hop,Hip-Hop
+514,Hip Hop,Hip-Hop,Hip-Hop
+515,Soul,Rock,Pop
 516,Country,Country,Rock
-517,Country,R&B,Country
-518,Country,Country,Rock
-519,Hip-Hop,Hip-Hop,Hip-Hop
-520,Hip-Hop,Hip-Hop,Rock
-521,Country,Country,Country
-522,Rock,Hip-Hop,Rock
-523,Folk,Country,Rock
-524,Pop,Pop,Jazz
+517,Ballad,Country,Country
+518,Blues,Rock,Rock
+519,Hip Hop,Hip-Hop,Hip-Hop
+520,Hip Hop,Hip-Hop,Rock
+521,Outlaw Country,Country,Country
+522,Hip Hop,Hip-Hop,Rock
+523,Folk,Folk,Rock
+524,Christmas Pop,Pop,Jazz
 525,Pop,Pop,Rock
-526,Rock,Rock,Rock
-527,Rock,Pop,R&B
-528,Country,Pop,Country
-529,Rock,Rock,Rock
+526,Psychedelic Rock,Rock,Rock
+527,Disco,Rock,R&B
+528,Country,Country,Country
+529,Industrial Rock,Rock,Rock
 530,Pop,Pop,Electronic
 531,Pop,Pop,Rock
-532,Folk,Other,Folk
-533,Hip-Hop,Hip-Hop,Hip-Hop
-534,Folk,Folk,Pop
-535,Folk,Other,Rock
+532,Latin Chant,Latin,Folk
+533,Hip Hop,Hip-Hop,Hip-Hop
+534,Christmas Carol,Folk,Pop
+535,Darkwave,Indie,Rock
 536,Pop,Pop,Indie
-537,Rock,Rock,Rock
-538,Rock,Rock,Metal
-539,Rock,R&B,Rock
+537,Pop Rock,Rock,Rock
+538,Alternative Rock,Rock,Metal
+539,Pop Rock,Rock,Rock
 540,Pop,Pop,Rock
 541,Pop,Pop,Pop
 542,Country,Hip-Hop,Rock
-543,Rock,Rock,Electronic
-544,Rock,Pop,Rock
+543,Alternative Rock,Rock,Electronic
+544,Blues,Rock,Rock
 545,R&B,R&B,Country
-546,Country,Pop,Rock
-547,Rock,Rock,Rock
-548,Metal,Metal,Metal
-549,Rock,Rock,Rock
-550,Metal,Hip-Hop,Metal
+546,Gospel,Country,Rock
+547,Dark Pop,Rock,Rock
+548,Gothic Rock,Metal,Metal
+549,Grunge,Rock,Rock
+550,Industrial Metal,Metal,Metal
 551,Pop,Hip-Hop,Pop
 552,Hip-Hop,Hip-Hop,Pop
-553,Indie,Other,Rock
+553,Dream Pop,Indie,Rock
 554,Rock,Rock,R&B
-555,Rock,Metal,Metal
+555,Black Metal,Metal,Metal
 556,Pop,Pop,Pop
-557,Other,Other,Country
-558,Rock,Rock,Pop
+557,Instrumental,Other,Country
+558,Punk Rock,Rock,Pop
 559,Hip-Hop,Hip-Hop,Hip-Hop
 560,Country,Country,Rock
-561,Rock,Hip-Hop,Rock
-562,Folk,Folk,Electronic
-563,Country,Country,Pop
-564,Rock,Rock,Rock
-565,Pop,Pop,Rock
-566,Rock,Pop,Pop
-567,Hip-Hop,Hip-Hop,Hip-Hop
-568,Folk,R&B,Rock
+561,Alternative Rock,Rock,Rock
+562,Indie Folk,Folk,Electronic
+563,Soul,Country,Pop
+564,Alternative Rock,Rock,Rock
+565,Rock,Rock,Rock
+566,Pop,Pop,Pop
+567,Hip Hop,Hip-Hop,Hip-Hop
+568,Gospel,Rock,Rock
 569,Country,Country,Country
-570,Pop,Pop,Electronic
-571,Rock,Rock,Rock
-572,Rock,Jazz,Jazz
-573,Other,Folk,Rock
-574,Pop,Hip-Hop,Hip-Hop
+570,Indie Pop,Pop,Electronic
+571,Darkwave,Rock,Rock
+572,Jazz,Pop,Jazz
+573,Dream Pop,Other,Rock
+574,Alternative Rock,Rock,Hip-Hop
 575,Pop,Hip-Hop,Pop
 576,Country,Country,Rock
-577,Folk,Pop,Pop
-578,Rock,Rock,Rock
-579,Rock,Rock,Rock
+577,Folk,Folk,Pop
+578,Punk Rock,Rock,Rock
+579,Alternative Rock,Rock,Rock
 580,Country,Country,Rock
-581,Country,Country,Jazz
-582,Pop,Metal,Metal
-583,Pop,Pop,Metal
-584,Ballad,Pop,Pop
-585,Pop,Pop,Country
-586,Metal,Metal,Rock
-587,R&B,R&B,Pop
-588,Hip-Hop,Hip-Hop,Hip-Hop
-589,Pop,Pop,Pop
-590,Darkwave,Rock,Rock
-591,Metal,Metal,Metal
-592,Rock,Rock,Rock
-593,Hip-Hop,Hip-Hop,Hip-Hop
-594,Pop,Pop,Rock
+581,Country,Pop,Jazz
+582,Romantic Metal,Pop,Metal
+583,Soft Rock,Pop,Metal
+584,Latin Pop,Ballad,Pop
+585,Disco,Pop,Country
+586,Shock Rock,Other,Rock
+587,Pop,Pop,Pop
+588,R&B,Hip-Hop,Hip-Hop
+589,Christmas Carol,Pop,Pop
+590,Gothic Rock,Rock,Rock
+591,Gothic Rock,Metal,Metal
+592,Psychedelic Rock,Rock,Rock
+593,Hip Hop,Hip-Hop,Hip-Hop
+594,R&B,Pop,Rock
 595,Rock,Rock,Rock
 596,Country,Country,Country
-597,Indie,Rock,Metal
-598,Pop,Pop,Rock
-599,Pop,Rock,Rock
-600,Country,Pop,Rock
-601,Pop,Pop,Pop
-602,Pop,Pop,Rock
+597,Indie Rock,Rock,Metal
+598,Indie Pop,Indie,Rock
+599,Pop Rock,Pop,Rock
+600,Country,Country,Rock
+601,Pop Romance,Pop,Pop
+602,Latin Pop,Pop,Rock
 603,Pop,Pop,Rock
 604,Country,Country,Rock
-605,Hip-Hop,Hip-Hop,Hip-Hop
-606,Rock,Rock,Rock
-607,Hip-Hop,Hip-Hop,Pop
-608,Metal,Metal,Metal
-609,Rock,Metal,Metal
-610,Hip-Hop,Hip-Hop,Pop
-611,Pop,Pop,Rock
-612,Country,Folk,Pop
-613,Folk,Country,Country
-614,Rock,Hip-Hop,Rock
-615,Rock,Country,Country
+605,Hip Hop,Hip-Hop,Hip-Hop
+606,Blues,Rock,Rock
+607,Hip Hop,Hip-Hop,Pop
+608,Dark Ambient,Metal,Metal
+609,Post-metal,Rock,Metal
+610,Hip Hop,Hip-Hop,Pop
+611,Pop Rock,Pop,Rock
+612,Country,Country,Pop
+613,Gospel,Country,Country
+614,Hip Hop,Hip-Hop,Rock
+615,Blues,Rock,Country
 616,Country,Country,Country
 617,Folk,Folk,Pop
-618,Hip-Hop,Hip-Hop,Hip-Hop
-619,Country,Pop,Folk
-620,Folk,Folk,Rock
-621,Hip-Hop,Hip-Hop,Hip-Hop
-622,Rock,Metal,Metal
-623,Other,Other,Rock
-624,Reggae,Hip-Hop,Electronic
-625,Country,Country,Rock
-626,Rock,Rock,Rock
-627,Other,Other,Other
-628,Rock,Hip-Hop,Rock
-629,Hip-Hop,Hip-Hop,Other
-630,Pop,Electronic,Rock
-631,Pop,Pop,Rock
-632,Rock,Rock,Rock
-633,Hip-Hop,Hip-Hop,Other
-634,Country,Country,Rock
-635,Hip-Hop,Hip-Hop,Hip-Hop
-636,Metal,Other,Metal
-637,Pop,Pop,Pop
-638,Folk,Pop,Pop
-639,Rock,Rock,Pop
-640,Metal,Metal,Pop
-641,Pop,Pop,Rock
-642,Hip-Hop,Hip-Hop,Hip-Hop
-643,Metal,Hip-Hop,Metal
-644,Rock,Country,Metal
+618,Trap,Hip-Hop,Hip-Hop
+619,Blues,R&B,Folk
+620,Sea Shanty,Country,Rock
+621,Hip Hop,Hip-Hop,Hip-Hop
+622,Punk Rock,Hip-Hop,Metal
+623,Instrumental,Other,Rock
+624,Reggae,Reggae,Electronic
+625,Country Rock,Country,Rock
+626,Football Anthem,Rock,Rock
+627,Dark cabaret,Folk,Other
+628,Punk Rock,Rock,Rock
+629,Brazilian Funk,Hip-Hop,Other
+630,Synth-pop,Pop,Rock
+631,Alternative Rock,Pop,Rock
+632,Hip Hop,Rock,Rock
+633,Hip Hop,Hip-Hop,Other
+634,Blues,Country,Rock
+635,Hip Hop,Hip-Hop,Hip-Hop
+636,Progressive Metal,Metal,Metal
+637,Power Ballad,Pop,Pop
+638,Pop Rock,Pop,Pop
+639,Psychedelic Rock,Rock,Pop
+640,Industrial,Metal,Pop
+641,Ballad,Pop,Rock
+642,Trap,Hip-Hop,Hip-Hop
+643,Industrial Metal,Metal,Metal
+644,Grunge,Hip-Hop,Metal
 645,Country,Country,Country
-646,Rock,Rock,Rock
-647,Folk,Pop,Rock
-648,Country,Pop,Rock
-649,Pop,Pop,Pop
-650,Rock,Rock,Metal
-651,Pop,Rock,Pop
-652,Country,Pop,Pop
-653,Hip-Hop,Hip-Hop,Hip-Hop
-654,Indie,Electronic,Rock
-655,Metal,Metal,Metal
-656,Rock,Hip-Hop,Rock
-657,Hip-Hop,Hip-Hop,Hip-Hop
-658,Rock,Rock,Rock
-659,Folk,Other,Rock
-660,Folk,Folk,Pop
-661,Hip-Hop,Hip-Hop,Hip-Hop
+646,Grime,Rock,Rock
+647,Soft Rock,Folk,Rock
+648,Blues,Country,Rock
+649,Hip Hop,Hip-Hop,Pop
+650,Blues,Rock,Metal
+651,Indie Pop,Pop,Pop
+652,Pop,Pop,Pop
+653,Trap Music,Hip-Hop,Hip-Hop
+654,Electronic Rock,Indie,Rock
+655,Black Metal,Metal,Metal
+656,Indie Rock,Rock,Rock
+657,Trap,Hip-Hop,Hip-Hop
+658,Blues,Rock,Rock
+659,Gothic Rock,Folk,Rock
+660,Ballad,Folk,Pop
+661,Hip Hop,Hip-Hop,Hip-Hop
 662,Country,Country,Country
-663,Rock,Pop,Country
-664,Hip-Hop,Hip-Hop,Rock
-665,Folk,Other,Pop
-666,Other,Other,Rock
-667,Hip-Hop,Hip-Hop,Hip-Hop
-668,Pop,R&B,Rock
-669,R&B,R&B,Hip-Hop
-670,Pop,Rock,Pop
-671,Rock,Rock,Rock
-672,Pop,Pop,Rock
-673,Folk,Pop,Pop
+663,Pop,Pop,Country
+664,Hip Hop,Hip-Hop,Rock
+665,Darkwave,Indie,Pop
+666,Rock,Other,Rock
+667,Hip Hop,Hip-Hop,Hip-Hop
+668,Pop,Pop,Rock
+669,Reggae,Hip-Hop,Hip-Hop
+670,Pop,Pop,Pop
+671,Electronicore,Rock,Rock
+672,Gospel,Other,Rock
+673,Indie Pop,Indie,Pop
 674,Pop,Pop,Rock
 675,Pop,Pop,Rock
-676,Hip-Hop,Hip-Hop,Hip-Hop
-677,Electronic,Electronic,Rock
-678,Rock,Hip-Hop,Rock
-679,Rock,Rock,Rock
+676,Hip Hop,Hip-Hop,Hip-Hop
+677,Electronic Rock,Electronic,Rock
+678,Alternative Rock,Rock,Rock
+679,Industrial,Rock,Rock
 680,Pop,Pop,Rock
-681,Hip-Hop,Hip-Hop,Hip-Hop
-682,Electronic,Electronic,Electronic
-683,Blues,R&B,Rock
-684,Metal,Other,Rock
-685,Country,Country,Rock
-686,Rock,Rock,Rock
-687,Country,Rock,Rock
+681,Hip Hop,Hip-Hop,Hip-Hop
+682,Pop,Pop,Electronic
+683,Blues,Blues,Rock
+684,Heavy Metal,Rock,Rock
+685,Soul,Country,Rock
+686,Alternative Rock,Rock,Rock
+687,Pop Rock,Rock,Rock
 688,Country,Country,Country
-689,Hip-Hop,Hip-Hop,Metal
-690,Hip-Hop,Hip-Hop,Hip-Hop
-691,Other,Other,Rock
-692,Rock,Rock,Rock
+689,Punk,Hip-Hop,Metal
+690,Hip Hop,Hip-Hop,Hip-Hop
+691,Psychedelic Rock,Rock,Rock
+692,Rock and Roll,Rock,Rock
 693,Pop,Pop,Pop
 694,Pop,Pop,Rock
-695,Metal,Metal,Metal
-696,Hip-Hop,Hip-Hop,Hip-Hop
+695,Black Metal,Metal,Metal
+696,Hip Hop,Hip-Hop,Hip-Hop
 697,Pop,Pop,Rock
-698,Country,Country,Country
-699,Country,Country,Rock
-700,Folk,Country,Country
-701,Rock,Electronic,Rock
-702,Folk,Other,Pop
-703,Rock,Pop,Rock
-704,Rock,Pop,Rock
-705,Hip-Hop,Hip-Hop,Hip-Hop
-706,Hip-Hop,Hip-Hop,Hip-Hop
-707,Rock,Rock,Rock
-708,Folk,Pop,Rock
-709,Rock,Rock,Rock
-710,Other,Other,Metal
-711,Hip-Hop,Hip-Hop,Hip-Hop
-712,Country,Rock,Pop
-713,Hip-Hop,Hip-Hop,Pop
-714,Folk,Country,Indie
-715,Other,Other,Metal
+698,Blues,Country,Country
+699,Pop Rock,Country,Rock
+700,Country,Country,Country
+701,Alternative Rock,Rock,Rock
+702,Cabaret,Pop,Pop
+703,Gothic Rock,Pop,Rock
+704,Pop,Pop,Rock
+705,Hip Hop,Hip-Hop,Hip-Hop
+706,Trap Metal,Hip-Hop,Hip-Hop
+707,Blues,Rock,Rock
+708,Pop,Pop,Rock
+709,Industrial,Rock,Rock
+710,Dark Ambient,Rock,Metal
+711,Crunk,Hip-Hop,Hip-Hop
+712,Pop,Pop,Pop
+713,Hip Hop,Hip-Hop,Pop
+714,Country,Country,Indie
+715,Classical,Other,Metal
 716,Country,Country,Rock
-717,Jazz,Country,Jazz
-718,Rock,Rock,Pop
-719,Folk,Rock,Rock
-720,Rock,Rock,Other
-721,Indie,Rock,Rock
+717,Jazz,Jazz,Jazz
+718,Alternative Rock,Rock,Pop
+719,Alternative Rock,Folk,Rock
+720,Soft Rock,Rock,Other
+721,Sadcore,Indie,Rock
 722,Metal,Metal,Metal
 723,Metal,Metal,Metal
-724,Rock,Hip-Hop,Metal
-725,Hip-Hop,Hip-Hop,Rock
-726,Pop,Pop,Pop
-727,Hip-Hop,Hip-Hop,Jazz
+724,Industrial Metal,Rock,Metal
+725,Hip Hop,Hip-Hop,Rock
+726,Hip Hop,Pop,Pop
+727,Hip Hop,Hip-Hop,Jazz
 728,Country,Country,Country
 729,Pop,Pop,Pop
-730,Rock,Metal,Rock
-731,Rock,Other,Pop
-732,Rock,Rock,Pop
-733,Rock,Rock,Rock
+730,Darkwave,Metal,Rock
+731,Darkwave,Metal,Pop
+732,Punk Rock,Rock,Pop
+733,Rock and Roll,Rock,Rock
 734,Country,Country,Rock
 735,Pop,Pop,Pop
-736,Other,Pop,Metal
-737,Metal,Electronic,Metal
-738,Rock,Hip-Hop,Rock
-739,Hip-Hop,Hip-Hop,Hip-Hop
-740,Pop,Pop,Electronic
-741,Folk,Pop,Pop
-742,Folk,Rock,Rock
-743,Pop,Pop,Pop
-744,R&B,R&B,Hip-Hop
-745,Hip-Hop,Hip-Hop,Hip-Hop
-746,Folk,Pop,Rock
-747,Country,Hip-Hop,Rock
-748,Hip-Hop,Hip-Hop,Hip-Hop
-749,Rock,Rock,Metal
-750,Rock,Rock,Pop
-751,Folk,Folk,Rock
-752,Country,Rock,Country
-753,Rock,Rock,Rock
-754,Other,Rock,Rock
-755,Rock,Rock,Rock
-756,Folk,Pop,Jazz
+736,Darkwave,Rock,Metal
+737,Industrial Metal,Metal,Metal
+738,Pop Rock,Pop,Rock
+739,Dancehall,Hip-Hop,Hip-Hop
+740,Soul,Pop,Electronic
+741,Pop,Pop,Pop
+742,Psychedelic Rock,Folk,Rock
+743,Disco,Pop,Pop
+744,Soul,Pop,Hip-Hop
+745,Novelty Song,Hip-Hop,Hip-Hop
+746,Alternative Rock,Pop,Rock
+747,Southern Rock,Country,Rock
+748,Trap Music,Hip-Hop,Hip-Hop
+749,Darkwave,Rock,Metal
+750,Alternative Metal,Rock,Pop
+751,Folk Rock,Folk,Rock
+752,Country,Country,Country
+753,Alternative Rock,Rock,Rock
+754,Indie Rock,Rock,Rock
+755,Punk Rock,Rock,Rock
+756,Pop,Pop,Jazz
 757,Metal,Metal,Metal
 758,Metal,Metal,Metal
-759,Hip-Hop,Hip-Hop,Hip-Hop
+759,Hip Hop,Hip-Hop,Hip-Hop
 760,Pop,Pop,Country
-761,Pop,R&B,Country
+761,Pop,Pop,Country
 762,Pop,Pop,Rock
-763,Folk,Rock,Rock
-764,Rock,Rock,Rock
-765,Country,Country,Rock
-766,Pop,Pop,Pop
-767,Country,Pop,Pop
-768,Rock,Hip-Hop,Rock
-769,Hip-Hop,Rock,Hip-Hop
-770,Pop,Pop,Rock
+763,Southern Rock,Folk,Rock
+764,Protest Song,Rock,Rock
+765,Blues,Country,Rock
+766,J-Pop,Pop,Pop
+767,Country,Country,Pop
+768,Country,Rock,Rock
+769,Soul,Hip-Hop,Hip-Hop
+770,French Pop,Pop,Rock
 771,Pop,Pop,Country
-772,Other,Other,Hip-Hop
-773,Rock,Hip-Hop,Rock
-774,Rock,Rock,Electronic
-775,Hip-Hop,Hip-Hop,Hip-Hop
-776,Other,Other,Rock
-777,Folk,Folk,Electronic
-778,Rock,Electronic,Metal
+772,Ambient,Other,Hip-Hop
+773,Gothic Rock,Hip-Hop,Rock
+774,Punk Rock,Rock,Electronic
+775,Hip Hop,Hip-Hop,Hip-Hop
+776,Novelty Pop,Pop,Rock
+777,Gospel,Gospel,Electronic
+778,Alternative Rock,Rock,Metal
 779,Country,Country,Country
-780,Country,Other,Rock
-781,Folk,Country,Pop
+780,Blues,Country,Rock
+781,Ballad,Country,Pop
 782,Pop,Pop,Country
-783,Other,Other,Metal
-784,Jazz,Pop,Jazz
-785,Pop,Pop,Pop
-786,Rock,Rock,Metal
+783,Ambient,Other,Metal
+784,Jazz,Jazz,Jazz
+785,Indie Pop,Pop,Pop
+786,Blues,Rock,Metal
 787,Pop,Pop,Electronic
-788,Other,Other,Metal
-789,Rock,Hip-Hop,R&B
-790,Rock,Rock,Rock
+788,Darkwave,Rock,Metal
+789,Pop Rock,Rock,R&B
+790,Alternative Rock,Rock,Rock
 791,Pop,Pop,Other
-792,Pop,Jazz,Pop
-793,Indie,Rock,Pop
-794,Comedy Rock,Hip-Hop,Hip-Hop
-795,Hip-Hop,Hip-Hop,Metal
-796,Rock,Pop,Rock
-797,Electronic,Electronic,Rock
-798,Rock,Rock,Metal
+792,Smooth Jazz,Pop,Pop
+793,Blues,Folk,Pop
+794,Comedy Metal,Comedy Rock,Hip-Hop
+795,Punk Rock,Hip-Hop,Metal
+796,Synth-pop,Pop,Rock
+797,Synth-pop,Electronic,Rock
+798,Alternative Rock,Indie,Metal
 799,Pop,Pop,Pop
-800,Folk,Folk,Pop
-801,R&B,R&B,Jazz
-802,Rock,Rock,Indie
-803,Metal,Country,Pop
-804,Pop,Hip-Hop,Rock
-805,Pop,Pop,Other
-806,R&B,Hip-Hop,Pop
-807,Pop,Hip-Hop,Pop
-808,Folk,Other,Rock
-809,Country,Country,Pop
-810,Pop,Pop,Rock
+800,Romantic Ballad,Folk,Pop
+801,Blues,R&B,Jazz
+802,Grunge,Rock,Indie
+803,Southern Rock,Metal,Pop
+804,Disco,Hip-Hop,Rock
+805,Pop Rock,Pop,Other
+806,R&B,R&B,Pop
+807,Pop,Pop,Pop
+808,Dark Academia,Dark Folk,Rock
+809,Blues,Country,Pop
+810,Pop Rock,Pop,Rock
 811,Pop,Pop,Pop
-812,Indie,Indie,Rock
+812,Indie Folk,Indie,Rock
 813,Country,Country,Pop
-814,Rock,Rock,R&B
+814,Punk Rock,Rock,R&B
 815,Pop,Pop,Rock
 816,Country,Country,Country
-817,Pop,Rock,Electronic
-818,Metal,Metal,Metal
-819,Rock,Hip-Hop,Rock
-820,Electronic,Electronic,Rock
-821,Other,Other,Rock
-822,Rock,Rock,R&B
+817,Pop Rap,Hip-Hop,Electronic
+818,Heavy Metal,Metal,Metal
+819,Pop Rock,Rock,Rock
+820,Darkwave,Electronic,Rock
+821,New Age,Other,Rock
+822,Pop Rock,Rock,R&B
 823,Pop,Pop,Rock
-824,Folk,Other,Jazz
+824,Folk,Folk,Jazz
 825,Pop,Pop,Rock
-826,Pop,Pop,Jazz
+826,New Age,Pop,Jazz
 827,Pop,Pop,R&B
-828,Rock,Country,Rock
-829,Pop,Country,Rock
-830,Rock,Rock,Rock
+828,Country,Country,Rock
+829,Pop,Pop,Rock
+830,Punk Rock,Hip-Hop,Rock
 831,Pop,Pop,Pop
 832,Pop,Pop,R&B
-833,Folk,Rock,Rock
+833,Gospel,Folk,Rock
 834,Pop,Pop,Hip-Hop
-835,Hip-Hop,Hip-Hop,Metal
+835,Hip Hop,Hip-Hop,Metal
 836,Pop,Pop,Rock
-837,Hip-Hop,Hip-Hop,Hip-Hop
-838,Rock,Rock,Hip-Hop
+837,Hip Hop,Hip-Hop,Hip-Hop
+838,Hip Hop,Hip-Hop,Hip-Hop
 839,Pop,Pop,Hip-Hop
 840,Pop,Pop,Pop
-841,Hip-Hop,Hip-Hop,Hip-Hop
-842,Metal,Metal,Metal
-843,Hip-Hop,Hip-Hop,Electronic
+841,Hip Hop,Hip-Hop,Hip-Hop
+842,Nu Metal,Metal,Metal
+843,Industrial Metal,Hip-Hop,Electronic
 844,Pop,Pop,Electronic
-845,Rock,Rock,Rock
-846,Hip-Hop,Hip-Hop,Hip-Hop
-847,Country,Pop,Country
-848,Pop,Pop,Pop
-849,Metal,Rock,Rock
+845,Progressive Rock,Rock,Rock
+846,Hip Hop,Hip-Hop,Hip-Hop
+847,Country,Country,Country
+848,Pop Rock,Rock,Pop
+849,Heavy Metal,Metal,Rock
 850,Pop,Pop,Rock
-851,Hip-Hop,Hip-Hop,Hip-Hop
+851,Hip Hop,Hip-Hop,Hip-Hop
 852,Pop,Pop,Pop
-853,Folk,Folk,Folk
-854,Country,Rock,Rock
-855,Folk,Pop,Rock
-856,Metal,Metal,Metal
-857,Folk,Hip-Hop,Rock
-858,Pop,Pop,Jazz
-859,Pop,Hip-Hop,Rock
-860,Rock,Pop,Metal
+853,Celtic Folk,Folk,Folk
+854,Alternative Rock,Rock,Rock
+855,Indie Folk,Country,Rock
+856,Gothic Rock,Metal,Metal
+857,Latin Pop,Hip-Hop,Rock
+858,Classical Christmas,Pop,Jazz
+859,Alternative Rock,Pop,Rock
+860,Pop Rock,Pop,Metal
 861,Country,Country,Country
-862,R&B,R&B,R&B
-863,Hip-Hop,Hip-Hop,Hip-Hop
+862,Blues,R&B,R&B
+863,Hip Hop,Hip-Hop,Hip-Hop
 864,Country,Country,Rock
-865,Hip-Hop,Hip-Hop,Rock
-866,Folk,Folk,Rock
-867,Rock,Rock,Rock
-868,Rock,Rock,Pop
-869,Indie,Pop,Rock
-870,Rock,Rock,Rock
-871,Country,R&B,Rock
+865,Hip Hop,Hip-Hop,Rock
+866,Folk Rock,Folk,Rock
+867,Country,Rock,Rock
+868,Alternative Rock,Indie,Pop
+869,Indie Pop,Indie,Rock
+870,Metal,Rock,Rock
+871,Soul,Pop,Rock
 872,Metal,Metal,Metal
-873,Pop,Pop,Rock
+873,Christmas Carol,Pop,Rock
 874,Pop,Pop,Pop
-875,Other,Rock,Rock
-876,Indie,R&B,Indie
+875,Jazz,Other,Rock
+876,Indie Folk,Indie,Indie
 877,Pop,Pop,Pop
 878,Pop,Pop,Rock
-879,Pop,Pop,Rock
-880,Rock,Rock,Rock
-881,Other,Pop,Pop
-882,Country,Rock,Country
-883,Rock,Rock,Rock
-884,Punk Rock,Punk,Rock
-885,Hip-Hop,Hip-Hop,Rock
-886,Hip-Hop,Hip-Hop,Hip-Hop
-887,Rock,Pop,Pop
-888,Hip-Hop,Hip-Hop,Hip-Hop
+879,Dream Pop,Pop,Rock
+880,Punk Rock,Rock,Rock
+881,Italian Ballad,Pop,Pop
+882,Blues,Rock,Country
+883,Punk Rock,Rock,Rock
+884,Punk Rock,Punk Rock,Rock
+885,Hip Hop,Hip-Hop,Rock
+886,Hip Hop,Hip-Hop,Hip-Hop
+887,Alternative Rock,Rock,Pop
+888,Hip Hop,Hip-Hop,Hip-Hop
 889,Country,Country,Rock
-890,Rock,Hip-Hop,Rock
+890,Industrial Rock,Rock,Rock
 891,Pop,Pop,Rock
-892,Hip-Hop,Hip-Hop,Hip-Hop
-893,Folk,Folk,Folk
-894,Rock,Rock,Rock
-895,Rock,Rock,Rock
-896,Hip-Hop,Hip-Hop,Hip-Hop
-897,Hip-Hop,Hip-Hop,Rock
-898,Rock,Hip-Hop,Hip-Hop
-899,Hip-Hop,Hip-Hop,Rock
-900,Other,Other,Metal
-901,Electronic,Other,Pop
-902,Rock,Rock,Rock
-903,Rock,Rock,Indie
+892,Hip Hop,Hip-Hop,Hip-Hop
+893,Christian Rock,Rock,Folk
+894,Industrial,Rock,Rock
+895,Darkwave,Rock,Rock
+896,Experimental Rock,Hip-Hop,Hip-Hop
+897,Rock,Rock,Rock
+898,Hip Hop,Rock,Hip-Hop
+899,Hip Hop,Hip-Hop,Rock
+900,Instrumental,Other,Metal
+901,Electronic Pop,Hip-Hop,Pop
+902,Dark Pop,Rock,Rock
+903,Alternative Rock,Rock,Indie
 904,Pop,Pop,Rock
-905,Rock,Rock,Rock
-906,Hip-Hop,Hip-Hop,Hip-Hop
-907,Rock,Hip-Hop,Rock
-908,R&B,Pop,Pop
-909,Pop,Pop,Electronic
-910,Rock,Rock,Rock
+905,Industrial Rock,Rock,Rock
+906,Hip Hop,Hip-Hop,Hip-Hop
+907,Alternative Rock,Rock,Rock
+908,Pop,R&B,Pop
+909,Swing,Pop,Electronic
+910,Alternative Rock,Rock,Rock
 911,Pop,Pop,Pop
-912,Pop,Pop,Rock
-913,Rock,Rock,Rock
-914,Folk,Pop,Pop
+912,Gospel,Country,Rock
+913,Dark Pop,Rock,Rock
+914,Contemporary Christian,Rock,Pop
 915,Pop,Pop,Pop
-916,Folk,Country,Rock
-917,Pop,Pop,Rock
-918,Rock,Rock,Metal
+916,Gospel,Gospel,Rock
+917,Rock,Rock,Rock
+918,Progressive Rock,Rock,Metal
 919,Pop,Pop,Rock
-920,Other,Other,Hip-Hop
-921,Rock,Hip-Hop,Rock
+920,Ambient,Other,Hip-Hop
+921,Hip Hop,Hip-Hop,Rock
 922,Country,Country,Jazz
 923,Country,Rock,Country
-924,Latin Pop,Hip-Hop,Jazz
-925,Country,R&B,Rock
-926,Rock,Hip-Hop,Rock
-927,Rock,Pop,Rock
-928,Country,Folk,Rock
-929,Hip-Hop,Hip-Hop,Pop
-930,Hip-Hop,Hip-Hop,Rock
-931,Other,R&B,Rock
-932,Metal,Metal,Other
-933,Other,Other,Metal
-934,Indie,Electronic,Electronic
-935,Other,Pop,Rock
-936,Folk,Folk,Pop
-937,Folk,Rock,Other
+924,Latin Pop,Latin Pop,Jazz
+925,Soul,R&B,Rock
+926,Hip Hop,Rock,Rock
+927,Alternative Rock,Rock,Rock
+928,Country,Country,Rock
+929,Hip Hop,Hip-Hop,Pop
+930,Hip Hop,Hip-Hop,Rock
+931,Darkwave,Dark Pop,Rock
+932,Gothic Rock,Rock,Other
+933,Instrumental,Other,Metal
+934,Ambient Electronic,Electronic,Electronic
+935,Gospel,Contemporary Christian,Rock
+936,Blues,Folk,Pop
+937,Punk Rock,Folk,Other
 938,Pop,Pop,Indie
-939,Hip-Hop,Hip-Hop,Hip-Hop
-940,Folk,Indie,Rock
-941,Hip-Hop,Hip-Hop,Hip-Hop
-942,Hip-Hop,Hip-Hop,Hip-Hop
+939,Hip Hop,Hip-Hop,Hip-Hop
+940,Alternative Rock,Rock,Rock
+941,Hip Hop,Hip-Hop,Hip-Hop
+942,Hip Hop,Hip-Hop,Hip-Hop
 943,Pop,Pop,Pop
-944,Rock,Pop,Rock
-945,Hip-Hop,Hip-Hop,Hip-Hop
-946,Pop,Pop,Rock
-947,Folk,Country,Country
+944,Rock and Roll,Rock,Rock
+945,Gangsta Rap,Hip-Hop,Hip-Hop
+946,Soft Rock,Pop,Rock
+947,Gothic Rock,Folk,Country
 948,Pop,R&B,Pop
 949,Country,Rock,Rock
 950,Pop,Pop,Electronic
 951,Pop,Pop,Electronic
-952,Pop,Pop,Rock
-953,Rock,Hip-Hop,Indie
-954,Other,Other,Electronic
-955,Metal,Metal,Metal
-956,Hip-Hop,Hip-Hop,Rock
+952,J-Pop,Pop,Rock
+953,Hip-Hop,Rock,Indie
+954,Instrumental,Other,Electronic
+955,Black Metal,Metal,Metal
+956,Gangsta Rap,Hip-Hop,Rock
 957,Rock,Rock,Rock
-958,Pop,Pop,Rock
+958,Hip Hop,Pop,Rock
 959,Country,Country,Rock
-960,Metal,Metal,Metal
-961,Folk,Rock,Rock
-962,Hip-Hop,Hip-Hop,Hip-Hop
+960,Darkwave,Metal,Metal
+961,Metal,Metal,Rock
+962,Gangsta Rap,Hip-Hop,Hip-Hop
 963,Pop,Pop,Pop
 964,Pop,Pop,Rock
-965,R&B,Hip-Hop,Pop
-966,Pop,Hip-Hop,Pop
-967,Other,Other,Electronic
+965,R&B,R&B,Pop
+966,Pop,Pop,Pop
+967,Instrumental,Other,Electronic
 968,Country,Country,Jazz
-969,Rock,Rock,Rock
+969,Rock and Roll,Rock,Rock
 970,Pop,Pop,Pop
 971,Metal,Metal,Metal
-972,Metal,Metal,Rock
-973,Other,Other,Metal
-974,Hip-Hop,Hip-Hop,Hip-Hop
-975,Rock,R&B,Pop
-976,Rock,Metal,Pop
-977,Rock,Rock,Rock
-978,Rock,Rock,Rock
+972,Industrial Metal,Metal,Rock
+973,Progressive Rock,Other,Metal
+974,Hip Hop,Hip-Hop,Hip-Hop
+975,Blues,Rock,Pop
+976,Darkwave,Rock,Pop
+977,Disco,Hip-Hop,Rock
+978,Rock and Roll,Rock,Rock
 979,Pop,Pop,Hip-Hop
-980,Rock,Rock,Rock
-981,Folk,Indie,Rock
-982,Folk,Pop,Rock
-983,Rock,Rock,Rock
-984,Hip-Hop,Hip-Hop,Rock
-985,Metal,Rock,Other
-986,Country,Country,Jazz
-987,Folk,Pop,Pop
-988,Rock,Hip-Hop,Rock
-989,Rock,Rock,Electronic
-990,Folk,Pop,Electronic
-991,Pop,Hip-Hop,Rock
-992,Indie,Rock,Electronic
+980,Psychedelic Rock,Rock,Rock
+981,Folk Rock,Folk,Rock
+982,Soft Rock,Pop,Rock
+983,Pop Rock,Rock,Rock
+984,Metal,Hip-Hop,Rock
+985,Industrial,Rock,Other
+986,Blues,Country,Jazz
+987,Gospel,Country,Pop
+988,Alternative Rock,Rock,Rock
+989,Gothic Rock,Metal,Electronic
+990,Latin Pop,Pop,Electronic
+991,K-Pop,Pop,Rock
+992,Indie Pop,Indie,Electronic
 993,Folk,Folk,Jazz
-994,Hip-Hop,Hip-Hop,Hip-Hop
+994,Hip Hop,Hip-Hop,Hip-Hop
 995,Pop,Pop,Pop
-996,Pop,Rock,Pop
-997,Metal,Hip-Hop,Metal
-998,Rock,Pop,Rock
+996,Contemporary Christian,Pop,Pop
+997,Metal,Metal,Metal
+998,Alternative Rock,Rock,Rock
 999,Pop,Pop,Rock
-1000,Rock,Country,Rock
-1001,Country,Pop,Pop
-1002,Rock,Rock,Rock
-1003,Indie,Pop,Electronic
-1004,Pop,Pop,Pop
-1005,Metal,Metal,Metal
-1006,Metal,Rock,Metal
-1007,Folk,Other,Metal
-1008,Hip-Hop,Hip-Hop,Hip-Hop
-1009,Hip-Hop,Hip-Hop,Hip-Hop
-1010,Rock,Rock,Pop
+1000,Rock and Roll,Rock,Rock
+1001,Ballad,Folk,Pop
+1002,German Hip Hop,Rock,Rock
+1003,Alternative Rock,Indie,Electronic
+1004,Soul,Pop,Pop
+1005,Fantasy Metal,Metal,Metal
+1006,Industrial Rock,Metal,Metal
+1007,Gothic Rock,Other,Metal
+1008,Hip Hop,Hip-Hop,Hip-Hop
+1009,Hip Hop,Hip-Hop,Hip-Hop
+1010,Darkwave,Rock,Pop
 1011,Metal,Metal,Pop
-1012,Rock,Rock,Metal
-1013,Metal,Metal,Metal
-1014,Pop,Hip-Hop,Rock
-1015,Folk,Folk,Folk
-1016,Pop,Pop,Rock
-1017,Metal,Metal,Metal
-1018,Hip-Hop,Hip-Hop,Rock
-1019,Hip-Hop,Hip-Hop,Hip-Hop
-1020,Country,Country,Country
+1012,Christian Rock,Rock,Metal
+1013,Western,Metal,Metal
+1014,Punk Rock,Hip-Hop,Rock
+1015,Gospel,Folk,Folk
+1016,Indie Pop,Pop,Rock
+1017,Progressive Metal,Metal,Metal
+1018,Hip Hop,Hip-Hop,Rock
+1019,Hip Hop,Hip-Hop,Hip-Hop
+1020,Rock and Roll,Rock,Country
 1021,Pop,Pop,Rock
-1022,Indie,R&B,Rock
-1023,Hip-Hop,Hip-Hop,Rock
+1022,Soul,R&B,Rock
+1023,Hip Hop,Hip-Hop,Rock
 1024,Pop,Pop,Electronic
-1025,Rock,Rock,Hip-Hop
-1026,Rock,Rock,Rock
-1027,Metal,Rock,Rock
-1028,Folk,Folk,Other
+1025,Rock and Roll,Rock,Hip-Hop
+1026,Alternative Rock,Rock,Rock
+1027,Gothic Rock,Metal,Rock
+1028,Children's Music,Children's Music,Other
 1029,Metal,Metal,Metal
-1030,Hip-Hop,Hip-Hop,Hip-Hop
-1031,Hip-Hop,Hip-Hop,Hip-Hop
-1032,Rock,Rock,Pop
+1030,Hip Hop,Hip-Hop,Hip-Hop
+1031,Hip Hop,Hip-Hop,Hip-Hop
+1032,Alternative Rock,Rock,Pop
 1033,Pop,Pop,Pop
-1034,Rock,Punk Rock,Rock
-1035,Pop,Pop,Rock
-1036,Hip-Hop,Hip-Hop,Rock
-1037,Rock,Rock,Rock
-1038,Country,Pop,Rock
-1039,Rock,Rock,Country
-1040,Folk,Folk,Rock
-1041,Rock,Pop,Pop
-1042,Rock,Rock,Folk
-1043,Indie,Pop,Pop
-1044,Rock,Rock,Rock
-1045,Rock,Rock,Rock
+1034,Punk Rock,Punk,Rock
+1035,Alternative Rock,Pop,Rock
+1036,Hip Hop,Rock,Rock
+1037,Blues,Rock,Rock
+1038,Sadcore,Folk,Rock
+1039,Country,Rock,Country
+1040,Folk Music,Folk,Rock
+1041,Gospel,Rock,Pop
+1042,Latin Pop,Rock,Folk
+1043,Alternative Rock,Indie,Pop
+1044,Alternative Rock,Rock,Rock
+1045,Electronic Rock,Rock,Rock
 1046,Pop,Pop,Jazz
-1047,Pop,Pop,Pop
-1048,Other,Other,Metal
+1047,Gospel,Folk,Pop
+1048,Industrial,Metal,Metal
 1049,Metal,Hip-Hop,Hip-Hop
 1050,Rock,Rock,Rock
-1051,Hip-Hop,Hip-Hop,Hip-Hop
-1052,Rock,Rock,Hip-Hop
-1053,Hip-Hop,Hip-Hop,Rock
-1054,Rock,Rock,Rock
-1055,Other,Other,Rock
-1056,Hip-Hop,Hip-Hop,Hip-Hop
-1057,Other,Rock,Hip-Hop
-1058,Other,Other,Rock
-1059,Pop,Pop,Country
-1060,Hip-Hop,Hip-Hop,Hip-Hop
-1061,Other,Other,Metal
-1062,Rock,Metal,Rock
-1063,Folk,Folk,Country
-1064,Metal,Hip-Hop,Rock
-1065,Indie,Pop,Jazz
-1066,Pop,Pop,Pop
-1067,Rock,Hip-Hop,Rock
+1051,Hip Hop,Hip-Hop,Hip-Hop
+1052,Pop Rock,Rock,Hip-Hop
+1053,Industrial Rock,Hip-Hop,Rock
+1054,Punk Rock,Rock,Rock
+1055,Ambient,Other,Rock
+1056,Gangsta Rap,Hip-Hop,Hip-Hop
+1057,Punk Rock,Hip-Hop,Hip-Hop
+1058,Indie Rock,Indie,Rock
+1059,Psychedelic Rock,Rock,Country
+1060,Hip Hop,Hip-Hop,Hip-Hop
+1061,Ambient,Other,Metal
+1062,Metal,Rock,Rock
+1063,Surrealism,Folk,Country
+1064,Industrial Rock,Metal,Rock
+1065,Indie Pop,Indie,Jazz
+1066,Pop,Folk,Pop
+1067,Punk Rock,Rock,Rock
 1068,Pop,Pop,Rock
-1069,Rock,Rock,Rock
-1070,Metal,Metal,Rock
-1071,Metal,Rock,Rock
-1072,Metal,Rock,Rock
-1073,Metal,Metal,Metal
+1069,Industrial Rock,Rock,Rock
+1070,Industrial,Metal,Rock
+1071,Metal,Metal,Rock
+1072,Industrial,Metal,Rock
+1073,Black Metal,Metal,Metal
 1074,Metal,Metal,Metal
-1075,Pop,Pop,Jazz
-1076,Metal,Metal,Rock
-1077,Folk,Pop,Rock
-1078,Rock,Rock,Rock
-1079,Rock,Rock,Rock
-1080,Other,Other,Rock
-1081,Rock,Hip-Hop,Rock
-1082,Pop,Rock,Pop
-1083,Reggae,Rock,Rock
+1075,Swing,Pop,Jazz
+1076,Darkwave,Metal,Rock
+1077,Gospel,Folk,Rock
+1078,Blues,Rock,Rock
+1079,Alternative Rock,Rock,Rock
+1080,Classical,Other,Rock
+1081,Funk,Hip-Hop,Rock
+1082,Pop,Pop,Pop
+1083,Reggae,Reggae,Rock
 1084,Country,Country,Rock
-1085,Pop,R&B,Rock
-1086,Rock,Electronic,Metal
-1087,Country,Pop,Pop
-1088,Hip-Hop,Hip-Hop,Hip-Hop
-1089,Country,Rock,Rock
-1090,Rock,Rock,Rock
-1091,Folk,Pop,Electronic
-1092,Rock,Rock,Jazz
+1085,Pop,Pop,Rock
+1086,Alternative Rock,Alternative,Metal
+1087,R&B,R&B,Pop
+1088,Gangsta Rap,Hip-Hop,Hip-Hop
+1089,Alternative Rock,Country,Rock
+1090,Indie Rock,Rock,Rock
+1091,Pop,Pop,Electronic
+1092,Jazz,Folk,Jazz
 1093,Pop,Pop,Rock
-1094,Other,Other,Metal
+1094,Darkwave,Other,Metal
 1095,Pop,Pop,Other
-1096,Rock,Hip-Hop,Rock
-1097,Comedy Folk,Jazz,Jazz
-1098,Pop,Pop,Rock
-1099,Other,Indie,Rock
-1100,Hip-Hop,Hip-Hop,Metal
+1096,Alternative Rock,Hip-Hop,Rock
+1097,Satire,Comedy,Jazz
+1098,Synth-pop,Pop,Rock
+1099,Alternative Rock,Indie,Rock
+1100,Hard Rock,Hip-Hop,Metal
 1101,Country,Country,Rock
 1102,Pop,Pop,Rock
 1103,Rock,Rock,Rock
 1104,Country,Country,Country
 1105,Country,Country,Rock
-1106,Hip-Hop,Hip-Hop,Hip-Hop
-1107,Rock,Pop,Pop
-1108,Indie,Indie,Rock
-1109,Pop,Pop,Rock
-1110,Metal,Metal,Metal
-1111,Rock,Hip-Hop,Rock
+1106,Hip Hop,Hip-Hop,Hip-Hop
+1107,Romantic Pop,Pop,Pop
+1108,Alternative Rock,Indie,Rock
+1109,Alternative Rock,Rock,Rock
+1110,Gothic Rock,Metal,Metal
+1111,Alternative Rock,Rock,Rock
 1112,Pop,Pop,Pop
-1113,Rock,Pop,Pop
+1113,Pop Rock,Rock,Pop
 1114,Country,Country,Rock
-1115,Other,Other,Rock
-1116,Country,Country,Rock
+1115,Instrumental,Other,Rock
+1116,Folk,Country,Rock
 1117,Pop,Pop,Pop
-1118,Hip-Hop,Hip-Hop,Rock
-1119,Other,Other,Electronic
-1120,Metal,Hip-Hop,Metal
-1121,Hip-Hop,Hip-Hop,Rock
-1122,Pop,Pop,Hip-Hop
+1118,Protest Song,Hip-Hop,Rock
+1119,Instrumental,Other,Electronic
+1120,Outlaw Country,Metal,Metal
+1121,Alternative Rock,Hip-Hop,Rock
+1122,Pop,Indie,Hip-Hop
 1123,Metal,Metal,Metal
-1124,Rock,Hip-Hop,Electronic
-1125,Metal,Rock,Metal
-1126,Rock,Rock,Electronic
-1127,Pop,Hip-Hop,Pop
-1128,Pop,Rock,Rock
+1124,Alternative Rock,Rock,Electronic
+1125,Industrial Metal,Metal,Metal
+1126,Darkwave,Rock,Electronic
+1127,Bongo Flava,Hip-Hop,Pop
+1128,Pop,Pop,Rock
 1129,Pop,Pop,Pop
 1130,Country,Country,Country
 1131,Country,Country,Rock
 1132,Pop,Pop,Rock
-1133,Metal,Other,Metal
-1134,Hip-Hop,Hip-Hop,Hip-Hop
-1135,Rock,Hip-Hop,Pop
-1136,Indie,Indie,Rock
+1133,Black Metal,Metal,Metal
+1134,Hip Hop,Hip-Hop,Hip-Hop
+1135,Rock,Rock,Pop
+1136,Alternative Rock,Indie,Rock
 1137,Pop,Pop,Rock
-1138,Hip-Hop,Hip-Hop,Hip-Hop
-1139,Country,R&B,Jazz
-1140,Rock,Metal,Metal
+1138,Reggaeton,Hip-Hop,Hip-Hop
+1139,Pop,Pop,Jazz
+1140,Industrial Metal,Rock,Metal
 1141,Rock,Rock,Rock
-1142,Hip-Hop,Hip-Hop,Hip-Hop
-1143,Rock,Hip-Hop,Rock
-1144,Pop,Pop,Rock
-1145,Other,Other,Rock
-1146,Folk,Rock,Rock
-1147,Hip-Hop,Hip-Hop,Hip-Hop
-1148,Hip-Hop,Hip-Hop,Rock
+1142,Hip Hop,Hip-Hop,Hip-Hop
+1143,Outlaw Country,Rock,Rock
+1144,Pop Rock,Pop,Rock
+1145,Classical,Other,Rock
+1146,Alternative Rock,Folk,Rock
+1147,Hip Hop,Hip-Hop,Hip-Hop
+1148,Punk Rock,Hip-Hop,Rock
 1149,Pop,Pop,Jazz
 1150,Metal,Rock,Rock
-1151,Country,Country,Rock
+1151,Rock and Roll,Country,Rock
 1152,Pop,Pop,Pop
 1153,Country,Country,Rock
 1154,Pop,Pop,Pop
-1155,R&B,Hip-Hop,Rock
-1156,Pop,Pop,Rock
+1155,R&B,R&B,Rock
+1156,Christmas Pop,Pop,Rock
 1157,Pop,Pop,Pop
-1158,Rock,Rock,Rock
-1159,Pop,Pop,Rock
-1160,Rock,Rock,Rock
+1158,Indie Rock,Rock,Rock
+1159,Alternative Rock,Pop,Rock
+1160,Blues,Rock,Rock
 1161,Pop,Pop,Rock
-1162,Pop,Rock,Rock
-1163,Folk,Hip-Hop,Rock
-1164,Other,Other,Electronic
-1165,Folk,Indie,Rock
-1166,Rock,Country,Rock
+1162,Pop/Rock,Pop,Rock
+1163,Indie Pop,Indie,Rock
+1164,Instrumental,Other,Electronic
+1165,Alternative Rock,Indie,Rock
+1166,Pop,Pop,Rock
 1167,Pop,Pop,Hip-Hop
-1168,Folk,Folk,Electronic
-1169,Rock,Hip-Hop,Hip-Hop
-1170,Other,Other,Metal
-1171,Pop,Pop,Pop
-1172,Hip-Hop,Hip-Hop,Hip-Hop
-1173,Hip-Hop,Hip-Hop,Hip-Hop
-1174,Country,Rock,Rock
-1175,Rock,Hip-Hop,Rock
-1176,Rock,Hip-Hop,Rock
-1177,Hip-Hop,Hip-Hop,Hip-Hop
-1178,Folk,Other,Metal
+1168,Classical Ballad,Folk,Electronic
+1169,Hip Hop,Hip-Hop,Hip-Hop
+1170,Hip Hop,Rock,Metal
+1171,Pop,Rock,Pop
+1172,Hip Hop,Hip-Hop,Hip-Hop
+1173,Hip Hop,Hip-Hop,Hip-Hop
+1174,Rock and Roll,Rock,Rock
+1175,Punk Rock,Rock,Rock
+1176,Protest Song,Rock,Rock
+1177,Hip Hop,Hip-Hop,Hip-Hop
+1178,Classical,Other,Metal
 1179,Pop,Pop,Pop
-1180,Country,Pop,Hip-Hop
-1181,Folk,Folk,Rock
-1182,Other,Pop,Rock
-1183,Other,Folk,Other
+1180,Pop,Pop,Hip-Hop
+1181,Country,Country,Rock
+1182,Classical Music,Classical,Rock
+1183,Dark Rock,Folk,Other
 1184,Country,Country,Rock
-1185,Folk,Pop,Metal
-1186,Hip-Hop,Hip-Hop,Hip-Hop
-1187,Folk,Pop,Rock
-1188,Indie,Rock,Pop
-1189,Rock,Electronic,Rock
-1190,Folk,Pop,Rock
-1191,Metal,Other,Other
-1192,Rock,Rock,Pop
-1193,Rock,R&B,Pop
+1185,Dream Pop,Pop,Metal
+1186,Hip Hop,Hip-Hop,Hip-Hop
+1187,Latin Pop,Pop,Rock
+1188,Alternative Rock,Rock,Pop
+1189,Electronic,Rock,Rock
+1190,Indie Folk,Folk,Rock
+1191,Darkwave,Rock,Other
+1192,Alternative Rock,Rock,Pop
+1193,Blues,R&B,Pop
 1194,Folk,Folk,Folk
 1195,Pop,Pop,Pop
-1196,Rock,Rock,Rock
-1197,Indie,Indie,Pop
-1198,Country,Pop,Pop
-1199,Folk,Folk,Country
+1196,Country Rock,Rock,Rock
+1197,Indie Rock,Rock,Pop
+1198,Pop Rock,Pop,Pop
+1199,Gospel,Country,Country
 1200,Pop,Pop,Pop
-1201,Other,Other,Pop
+1201,Darkwave,Darkwave,Pop
 1202,Pop,Pop,Rock
-1203,Rock,Pop,Rock
-1204,Rock,Rock,Country
-1205,Country,Country,Country
-1206,Country,Rock,Rock
-1207,Rock,Electronic,Indie
+1203,Pop,Rock,Rock
+1204,Country,Country,Country
+1205,Gospel,Folk,Country
+1206,Outlaw Country,Country,Rock
+1207,Synth-pop,Pop,Indie
 1208,Pop,Pop,Pop
-1209,Hip-Hop,Hip-Hop,Rock
-1210,Rock,Rock,Pop
-1211,Country,Rock,Pop
-1212,Metal,Metal,Metal
-1213,Folk,Folk,Other
-1214,Country,Pop,Rock
-1215,Rock,Hip-Hop,Jazz
-1216,Latin Pop,R&B,Hip-Hop
-1217,Rock,Rock,Country
-1218,Folk,Indie,Rock
-1219,Hip-Hop,Hip-Hop,Hip-Hop
-1220,Other,Folk,Rock
+1209,Hip Hop,Hip-Hop,Rock
+1210,Indie Rock,Rock,Pop
+1211,Psychedelic Rock,Folk,Pop
+1212,Black Metal,Metal,Metal
+1213,Christmas Carol,Folk,Other
+1214,Blues,Pop,Rock
+1215,Alternative Rock,Rock,Jazz
+1216,Latin Pop,Latin Pop,Hip-Hop
+1217,Industrial,Rock,Country
+1218,Indie Pop,Pop,Rock
+1219,Hip Hop,Hip-Hop,Hip-Hop
+1220,Gospel,Gospel,Rock
 1221,Metal,Metal,Metal
-1222,Hip-Hop,Hip-Hop,Hip-Hop
-1223,Rock,Rock,Rock
-1224,Rock,Hip-Hop,Rock
-1225,Hip-Hop,Hip-Hop,Hip-Hop
-1226,Metal,Metal,Metal
+1222,Hip Hop,Hip-Hop,Hip-Hop
+1223,Alternative Rock,Rock,Rock
+1224,Alternative Rock,Rock,Rock
+1225,Hip Hop,Hip-Hop,Hip-Hop
+1226,Black Metal,Metal,Metal
 1227,Folk,Folk,Rock
-1228,Pop,Pop,Pop
-1229,Country,R&B,Rock
-1230,Jazz,Jazz,Rock
-1231,Other,Indie,Rock
-1232,Metal,Metal,Metal
-1233,Pop,R&B,Pop
-1234,Pop,Hip-Hop,Hip-Hop
-1235,Other,Rock,Metal
-1236,Pop,Pop,Other
-1237,Country,R&B,Rock
-1238,Pop,Pop,Pop
-1239,Folk,Other,Pop
-1240,Rock,Rock,Rock
-1241,Rock,Rock,Jazz
-1242,Folk,Pop,Rock
-1243,Pop,Pop,Pop
-1244,Country,Country,Rock
-1245,Rock,Rock,Pop
-1246,Folk,Folk,Rock
-1247,Rock,Rock,Rock
+1228,Pop Rock,Pop,Pop
+1229,Blues,Pop,Rock
+1230,Darkwave,Jazz,Rock
+1231,Darkwave,Indie,Rock
+1232,Industrial,Hip-Hop,Metal
+1233,R&B,R&B,Pop
+1234,R&B,R&B,Hip-Hop
+1235,Industrial,Hip-Hop,Metal
+1236,Latin Pop,Pop,Other
+1237,Pop,Pop,Rock
+1238,Christmas Music,Pop,Pop
+1239,Gothic Rock,Sad Folk,Pop
+1240,Nu Metal,Rock,Rock
+1241,Rock and Roll,Rock,Jazz
+1242,Pop,Pop,Rock
+1243,Pop Rock,Pop,Pop
+1244,Blues,Country,Rock
+1245,Alternative Rock,Rock,Pop
+1246,Gothic Rock,Folk,Rock
+1247,Psychedelic Rock,Pop,Rock
 1248,Pop,Pop,Electronic
 1249,Metal,Metal,Metal
-1250,Country,R&B,Rock
-1251,Pop,Electronic,Pop
-1252,Folk,Pop,Pop
-1253,Rock,Rock,Metal
-1254,Rock,Pop,Rock
-1255,Rock,Rock,Pop
+1250,R&B,R&B,Rock
+1251,Electronic Dance Music,Rock,Pop
+1252,World Music,Rock,Pop
+1253,Industrial,Rock,Metal
+1254,Alternative Rock,Rock,Rock
+1255,Latin Pop,Rock,Pop
 1256,Pop,Pop,Pop
 1257,Country,Country,Country
-1258,Pop,Pop,Pop
-1259,Rock,Hip-Hop,Rock
-1260,Other,Other,Rock
-1261,Rock,Rock,Rock
-1262,Folk,Country,Rock
-1263,Pop,Pop,Pop
-1264,Pop,Rock,Pop
-1265,Folk,Folk,Rock
+1258,Gospel,Pop,Pop
+1259,Alternative Rock,Rock,Rock
+1260,Indie Rock,Folk,Rock
+1261,Electronic Dance Music,Rock,Rock
+1262,Country,Country,Rock
+1263,Pop Rock,Pop,Pop
+1264,Pop Rock,R&B,Pop
+1265,Flamenco,Latin Jazz,Rock
 1266,Pop,Pop,Rock
-1267,Other,Other,Electronic
-1268,Rock,Rock,Rock
-1269,Metal,Metal,Rock
+1267,Instrumental,Other,Electronic
+1268,Alternative Rock,Rock,Rock
+1269,Gothic Rock,Metal,Rock
 1270,Rock,Rock,Rock
-1271,Folk,Country,Country
-1272,Hip-Hop,Hip-Hop,Hip-Hop
-1273,Folk,Folk,Metal
-1274,Rock,Hip-Hop,Rock
-1275,Pop,Pop,Jazz
+1271,Ballad,Country,Country
+1272,Hip Hop,Hip-Hop,Hip-Hop
+1273,Ballad,Folk,Metal
+1274,Rock,Rock,Rock
+1275,Soft Rock,Pop,Jazz
 1276,Pop,Pop,Pop
-1277,Rock,Rock,Rock
-1278,Country,Pop,Rock
-1279,Rock,Rock,Rock
-1280,Rock,Rock,Rock
-1281,Pop,Hip-Hop,Country
-1282,Pop,Pop,Rock
-1283,Rock,Rock,Rock
-1284,Metal,Metal,Metal
-1285,Rock,Hip-Hop,Rock
-1286,Rock,Hip-Hop,Rock
-1287,Rock,Rock,Rock
-1288,Country,Country,Hip-Hop
-1289,Hip-Hop,Hip-Hop,Hip-Hop
-1290,Hip-Hop,Hip-Hop,Hip-Hop
-1291,Pop,Pop,Pop
-1292,Metal,Hip-Hop,Metal
-1293,Indie,Pop,Rock
-1294,Folk,Folk,Rock
-1295,Country,Hip-Hop,Rock
-1296,Country,Rock,Country
+1277,Rock and Roll,Rock,Rock
+1278,Soft Rock,Folk,Rock
+1279,Punk Rock,Hip-Hop,Rock
+1280,Alternative Rock,Indie,Rock
+1281,Pop,Pop,Country
+1282,Psychedelic Rock,Pop,Rock
+1283,Alternative Rock,Rock,Rock
+1284,Black Metal,Metal,Metal
+1285,Punk Rock,Rock,Rock
+1286,Blues,Rock,Rock
+1287,Alternative Rock,Pop,Rock
+1288,Romantic Ballad,Country,Hip-Hop
+1289,Hip Hop,Hip-Hop,Hip-Hop
+1290,Hip Hop,Hip-Hop,Hip-Hop
+1291,Gospel,Pop,Pop
+1292,Metal,Metal,Metal
+1293,Indie Rock,Rock,Rock
+1294,Indie Folk,Folk,Rock
+1295,Pop Rock,Pop,Rock
+1296,Outlaw Country,Country,Country
 1297,Rock,Rock,Rock
-1298,Rock,Hip-Hop,Rock
-1299,Folk,Folk,Rock
-1300,Folk,Folk,Rock
-1301,Rock,Rock,Metal
-1302,Rock,Rock,Rock
-1303,Folk,Folk,Rock
-1304,Folk,Rock,Rock
-1305,Country,Rock,Rock
-1306,Rock,Hip-Hop,Rock
-1307,Country,Country,Pop
+1298,Alternative Rock,Rock,Rock
+1299,Grunge,Folk,Rock
+1300,Country,Country,Rock
+1301,Industrial Rock,Rock,Metal
+1302,Indie Rock,Rock,Rock
+1303,Fantasy,Folk,Rock
+1304,Dream Pop,Indie,Rock
+1305,Pop,Country,Rock
+1306,Alternative Rock,Rock,Rock
+1307,Gospel,Country,Pop
 1308,Pop,Pop,Rock
-1309,Hip-Hop,Hip-Hop,Rock
-1310,Folk,Country,Pop
-1311,Pop,Rock,Rock
-1312,R&B,R&B,Rock
-1313,Indie,Rock,Rock
-1314,Rock,Rock,Rock
+1309,Hip Hop,Hip-Hop,Rock
+1310,Country,Folk,Pop
+1311,Alternative Rock,Rock,Rock
+1312,Pop,R&B,Rock
+1313,Indie Rock,Rock,Rock
+1314,Punk Rock,Rock,Rock
 1315,Country,Country,Jazz
 1316,Pop,Pop,Country
-1317,Metal,Hip-Hop,Rock
-1318,Folk,Country,Rock
-1319,Hip-Hop,Hip-Hop,Rock
+1317,Cold War Thriller,Hip-Hop,Rock
+1318,Indie Rock,Indie,Rock
+1319,Shock Rock,Hip-Hop,Rock
 1320,Country,Country,Rock
-1321,Hip-Hop,Hip-Hop,Rock
-1322,Rock,R&B,Pop
-1323,Country,Rock,Country
+1321,Hip Hop,Hip-Hop,Rock
+1322,Soul Music,Rock,Pop
+1323,Alternative Rock,Rock,Country
 1324,Pop,Pop,R&B
-1325,Folk,Rock,Electronic
-1326,Metal,Metal,Metal
-1327,Pop,R&B,Country
+1325,Darkwave,Rock,Electronic
+1326,Black Metal,Metal,Metal
+1327,Pop,Pop,Country
 1328,Country,Country,Folk
-1329,Rock,Pop,Rock
+1329,Surf Rock,Rock,Rock
 1330,Country,Country,Rock
-1331,Hip-Hop,Hip-Hop,Hip-Hop
-1332,Rock,Metal,Rock
-1333,Rock,Rock,Rock
-1334,Hip-Hop,Hip-Hop,Rock
-1335,Country,Hip-Hop,Rock
-1336,Metal,Metal,Rock
-1337,Country,R&B,Rock
+1331,Trap Music,Hip-Hop,Hip-Hop
+1332,Metal,Rock,Rock
+1333,Folk Rock,Rock,Rock
+1334,Punk Rock,Hip-Hop,Rock
+1335,Blues,Hip-Hop,Rock
+1336,Progressive Metal,Rock,Rock
+1337,Country,Country,Rock
 1338,Pop,Pop,Hip-Hop
-1339,Hip-Hop,Rock,Rock
-1340,Indie,Pop,Rock
+1339,Depressive Rock,Rock,Rock
+1340,Indie Pop,Indie,Rock
 1341,Pop,Pop,Rock
 1342,Country,Country,Rock
-1343,Rock,Rock,Rock
-1344,R&B,Hip-Hop,Hip-Hop
-1345,Hip-Hop,Hip-Hop,Hip-Hop
-1346,Rock,Pop,Pop
+1343,Alternative Rock,Rock,Rock
+1344,R&B,R&B,Hip-Hop
+1345,Trap,Hip-Hop,Hip-Hop
+1346,Pop,Rock,Pop
 1347,Country,Country,Country
-1348,Indie,Folk,Rock
-1349,Folk,Folk,Electronic
-1350,Country,Pop,R&B
-1351,Blues,Country,Country
-1352,Rock,Rock,Metal
-1353,Rock,Pop,Other
+1348,Indie Pop,Folk,Rock
+1349,Folk Rock,Folk,Electronic
+1350,Country,Country,R&B
+1351,Blues,Blues,Country
+1352,Industrial Metal,Metal,Metal
+1353,Christian Rock,Pop,Other
 1354,Pop,Pop,Pop
-1355,Folk,Pop,Rock
-1356,Rock,Pop,Pop
-1357,Country,Hip-Hop,Rock
+1355,Gospel,Gospel,Rock
+1356,Cabaret,Rock,Pop
+1357,Country,Country,Rock
 1358,Pop,Pop,Pop
-1359,Rock,Pop,Rock
-1360,Pop,Pop,Rock
-1361,Rock,Hip-Hop,Rock
-1362,Rock,Hip-Hop,Rock
-1363,Indie,Rock,Rock
-1364,Folk,Country,Indie
-1365,Country,Country,Country
-1366,Country,Hip-Hop,Country
+1359,Pop Rock,Rock,Rock
+1360,Pop Rock,Pop,Rock
+1361,Punk Rock,Hip-Hop,Rock
+1362,Metal,Rock,Rock
+1363,Alternative Rock,Indie,Rock
+1364,Gospel,Rock,Indie
+1365,Indie Folk,Rock,Country
+1366,R&B,R&B,Country
 1367,Latin Pop,Latin Pop,Pop
-1368,Metal,Metal,Metal
+1368,Gothic Rock,Metal,Metal
 1369,Metal,Metal,Metal
-1370,Rock,Rock,Pop
-1371,Folk,Folk,Rock
+1370,Alternative Rock,Rock,Pop
+1371,Dream Pop,Folk,Rock
 1372,Pop,Pop,Electronic
-1373,Folk,Folk,Rock
+1373,Dark cabaret,Metal,Rock
 1374,Pop,Pop,Pop
-1375,Pop,R&B,Rock
-1376,Pop,Pop,Pop
-1377,Rock,Rock,Country
-1378,Rock,Rock,Rock
-1379,Rock,Rock,Rock
-1380,Rock,Rock,Metal
-1381,Other,Other,Rock
-1382,Rock,Pop,Rock
-1383,Rock,Pop,Rock
-1384,Blues,Country,Jazz
-1385,Metal,Hip-Hop,Rock
-1386,Pop,Pop,Rock
-1387,Metal,Hip-Hop,Rock
-1388,Other,Rock,Rock
-1389,Metal,Metal,Metal
+1375,Soul,Pop,Rock
+1376,Latin Pop,Pop,Pop
+1377,Rock and Roll,Rock,Country
+1378,Alternative Rock,Rock,Rock
+1379,Synth-pop,Rock,Rock
+1380,Darkwave,Rock,Metal
+1381,Ambient,Other,Rock
+1382,Gothic Rock,Rock,Rock
+1383,Alternative Rock,Rock,Rock
+1384,Blues,Blues,Jazz
+1385,Industrial Metal,Metal,Rock
+1386,Pop Rock,Pop,Rock
+1387,Outlaw Country,Country,Rock
+1388,Progressive Rock,Rock,Rock
+1389,Heavy Metal,Metal,Metal
 1390,Pop,Pop,R&B
-1391,Metal,Metal,Rock
-1392,Folk,Folk,Pop
-1393,Rock,Hip-Hop,Rock
-1394,Pop,R&B,Pop
-1395,Rock,Rock,Metal
-1396,Metal,Metal,Metal
-1397,Country,Hip-Hop,R&B
-1398,Hip-Hop,Hip-Hop,Hip-Hop
-1399,Indie,Pop,Rock
-1400,Rock,Rock,Rock
-1401,Indie,Indie,Rock
-1402,Hip-Hop,Hip-Hop,Hip-Hop
-1403,Hip-Hop,Hip-Hop,Hip-Hop
-1404,Rock,Hip-Hop,Pop
-1405,Rock,Rock,Metal
-1406,Folk,Folk,Pop
+1391,Industrial Rock,Metal,Rock
+1392,Punk Rock,Folk,Pop
+1393,Rock and Roll,R&B,Rock
+1394,Pop,Pop,Pop
+1395,Grunge,Rock,Metal
+1396,Industrial,Metal,Metal
+1397,Hip Hop,Hip-Hop,R&B
+1398,Hip Hop,Hip-Hop,Hip-Hop
+1399,Indie Pop,Indie,Rock
+1400,Alternative Rock,Rock,Rock
+1401,Alternative Rock,Indie,Rock
+1402,Hip Hop,Hip-Hop,Hip-Hop
+1403,Nu Metal,Hip-Hop,Hip-Hop
+1404,Disco,Pop,Pop
+1405,Progressive Rock,Rock,Metal
+1406,Cuban Son,Folk,Pop
 1407,Metal,Metal,Metal
-1408,Pop,Rock,Rock
-1409,Pop,Pop,Pop
-1410,Other,Other,Electronic
-1411,Other,Other,Metal
-1412,Folk,Folk,Country
-1413,Country,Country,Jazz
-1414,Rock,Other,Rock
+1408,Alternative Rock,Rock,Rock
+1409,Pop,R&B,Pop
+1410,Instrumental,Other,Electronic
+1411,Ambient,Other,Metal
+1412,Christmas Carol,Folk,Country
+1413,Blues,Country,Jazz
+1414,Hip Hop,Hip-Hop,Rock
 1415,Country,Country,Rock
-1416,Folk,Rock,Pop
+1416,Alternative Rock,Rock,Pop
 1417,Pop,Pop,Pop
-1418,Country,Rock,Rock
-1419,Rock,Rock,Rock
-1420,Rock,Rock,Pop
-1421,Folk,Folk,Rock
-1422,Hip-Hop,Hip-Hop,Pop
-1423,Rock,Rock,Rock
-1424,Folk,Country,Country
+1418,Blues,Rock,Rock
+1419,Blues,Hip-Hop,Rock
+1420,Punk Rock,Rock,Pop
+1421,Children's Music,Folk,Rock
+1422,K-pop,Hip-Hop,Pop
+1423,Alternative Rock,Rock,Rock
+1424,Gospel,Country,Country
 1425,Rock,Rock,Rock
 1426,Pop,Pop,Rock
 1427,Pop,Pop,Rock
-1428,Indie,Indie,Pop
-1429,Rock,Hip-Hop,Electronic
-1430,Rock,Hip-Hop,Rock
-1431,Rock,Rock,Metal
-1432,Rock,Rock,Pop
-1433,Rock,Rock,Rock
-1434,Pop,Pop,Rock
-1435,Rock,Rock,Rock
+1428,French Pop,Indie,Pop
+1429,Punk Rock,Rock,Electronic
+1430,Punk Rock,Rock,Rock
+1431,Blues,Rock,Metal
+1432,Gothic Rock,Metal,Pop
+1433,Psychedelic Rock,Rock,Rock
+1434,Synth-pop,Pop,Rock
+1435,Alternative Rock,Rock,Rock
 1436,Pop,Pop,Pop
 1437,Metal,Metal,Metal
-1438,Rock,Electronic,Electronic
-1439,Folk,Rock,Jazz
+1438,Synth-pop,Rock,Electronic
+1439,Gospel,Soul,Jazz
 1440,Rock,Rock,Rock
-1441,Hip-Hop,Hip-Hop,Hip-Hop
-1442,Pop,Pop,Pop
-1443,Hip-Hop,Hip-Hop,Rock
-1444,Other,Other,Other
-1445,Country,Pop,Pop
-1446,Rock,Rock,Rock
-1447,Rock,Rock,Pop
-1448,Rock,Rock,Rock
+1441,Hip Hop,Hip-Hop,Hip-Hop
+1442,Christmas Pop,Pop,Pop
+1443,Punk Rock,Hip-Hop,Rock
+1444,Children's Music,Other,Other
+1445,Ballad,Pop,Pop
+1446,Industrial Rock,Rock,Rock
+1447,Alternative Rock,Rock,Pop
+1448,Blues,Rock,Rock
 1449,Metal,Metal,Metal
-1450,Other,Other,Rock
-1451,Metal,Metal,Electronic
-1452,Rock,Rock,Rock
-1453,Rock,Rock,Folk
-1454,Country,Pop,Rock
+1450,Darkwave,Other,Rock
+1451,Industrial Metal,Metal,Electronic
+1452,Blues Rock,Rock,Rock
+1453,Blues,Rock,Folk
+1454,Pop,Pop,Rock
 1455,Rock,Rock,Rock
-1456,Hip-Hop,Hip-Hop,Hip-Hop
-1457,Rock,Rock,Electronic
-1458,Pop,Pop,Rock
+1456,Rap,Hip-Hop,Hip-Hop
+1457,Synth-pop,Rock,Electronic
+1458,Disco,Pop,Rock
 1459,Rock,Rock,Rock
-1460,Hip-Hop,Hip-Hop,Hip-Hop
-1461,Pop,Pop,Rock
-1462,Rock,R&B,Country
-1463,Metal,Rock,Rock
-1464,Rock,Rock,Rock
-1465,Country,Country,Jazz
-1466,Pop,R&B,Pop
-1467,Rock,R&B,Pop
+1460,Hip Hop,Hip-Hop,Hip-Hop
+1461,Worldbeat,Pop,Rock
+1462,R&B,R&B,Country
+1463,Christian Metal,Metal,Rock
+1464,Alternative Rock,Rock,Rock
+1465,Latin Pop,Folk,Jazz
+1466,R&B,R&B,Pop
+1467,Dark Pop,R&B,Pop
 1468,Pop,Pop,Hip-Hop
-1469,Hip-Hop,Hip-Hop,Metal
+1469,Alternative Metal,Hip-Hop,Metal
 1470,Pop,Pop,Rock
-1471,Electronic,Hip-Hop,Pop
-1472,Pop,Pop,Pop
-1473,Pop,Rock,Pop
-1474,Country,Rock,Rock
-1475,Folk,Country,Country
-1476,Country,Country,Other
-1477,Rock,Hip-Hop,Rock
-1478,Folk,Folk,Pop
-1479,Country,Country,Pop
+1471,Hip-Hop,Hip-Hop,Pop
+1472,Pop Rock,Pop,Pop
+1473,Pop Rock,Rock,Pop
+1474,Soul,Country,Rock
+1475,Country,Country,Country
+1476,Pop,Country,Other
+1477,Hip Hop,Rock,Rock
+1478,Gospel,Folk,Pop
+1479,Pop,Country,Pop
 1480,Pop,Pop,Pop
-1481,Other,Other,Rock
-1482,Hip-Hop,Hip-Hop,Hip-Hop
+1481,Classical Music,Folk,Rock
+1482,Hip Hop,Hip-Hop,Hip-Hop
 1483,Metal,Metal,Rock
-1484,Other,Pop,Rock
-1485,Country,Country,Rock
-1486,Metal,Metal,Rock
+1484,Pop,Pop,Rock
+1485,Latin Pop,Country,Rock
+1486,Gothic Rock,Metal,Rock
 1487,Metal,Metal,Metal
-1488,Metal,Hip-Hop,Electronic
-1489,Country,Pop,Indie
-1490,Pop,Pop,Rock
-1491,Country,Country,Electronic
-1492,Rock,Rock,Rock
-1493,Metal,Metal,Metal
-1494,Rock,Rock,Rock
-1495,Pop,Pop,Rock
-1496,Folk,Folk,Pop
-1497,Pop,Pop,Rock
-1498,Rock,Rock,Rock
+1488,Industrial Metal,Metal,Electronic
+1489,Alternative Rock,Pop,Indie
+1490,Pop Ballad,Country,Rock
+1491,Southern Rock,Country,Electronic
+1492,Rock and Roll,Rock,Rock
+1493,Darkwave,Metal,Metal
+1494,Alternative Rock,Rock,Rock
+1495,Pop Rock,Pop,Rock
+1496,Welsh Folk,Folk,Pop
+1497,Alternative Rock,Pop,Rock
+1498,Country Rock,Rock,Rock
 1499,Pop,Pop,Pop
